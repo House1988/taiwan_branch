@@ -1,0 +1,102 @@
+<skeleton name="tx_bubing_pugong" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="tx_bubing_pugong">
+   <b name="图层 5" x="0" y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0">
+    <d name="part-tx_bubing_pugong_kong" pX="5" pY="5"/>
+   </b>
+   <b name="图层 7" x="17.9" y="-91.3" kX="-137" kY="-137" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_pugong_daoshenguang" pX="92.5" pY="60"/>
+   </b>
+   <b name="图层 7 复制" x="-4" y="-98.3" kX="137" kY="-43" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_pugong_daoshenguang" pX="92.5" pY="60"/>
+   </b>
+   <b name="图层 12" x="-21.45" y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_pugong_001" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_002" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_003" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_004" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_005" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_006" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_007" pX="90" pY="70"/>
+   </b>
+   <b name="图层 11" x="23" y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_pugong_001" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_002" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_003" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_004" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_005" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_006" pX="90" pY="70"/>
+    <d name="part-tx_bubing_pugong_007" pX="90" pY="70"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="tx_bubing_pugong">
+   <mov name="qishouzuo" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="10"/>
+    </b>
+    <b name="图层 7" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="17.9" y="-91.3" cocos2d_x="17.9" cocos2d_y="-91.3" kX="-137" kY="-137" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+     <f x="100.9" y="-61.3" cocos2d_x="100.9" cocos2d_y="-61.3" kX="-87.03" kY="-87.03" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="qishouyou" dr="10" to="0" drTW="10" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="24"/>
+    </b>
+    <b name="图层 7 复制" sc="1" dl="0">
+     <f dr="6" dI="-1"/>
+     <f x="-4" y="-98.3" cocos2d_x="-4" cocos2d_y="-98.3" kX="137" kY="-43" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+     <f x="-87" y="-68.3" cocos2d_x="-87" cocos2d_y="-68.3" kX="87.03" kY="-92.97" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="70" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="1" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="mingzhongzuo" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="14"/>
+    </b>
+    <b name="图层 12" sc="1" dl="0">
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="1"/>
+     <f x="-21.45" y="-28" cocos2d_x="-21.45" cocos2d_y="-28" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="1"/>
+    </b>
+   </mov>
+   <mov name="mingzhongyou" dr="7" to="0" drTW="7" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="7"/>
+    </b>
+    <b name="图层 11" sc="1" dl="0">
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="1"/>
+     <f x="23" y="-38" cocos2d_x="23" cocos2d_y="-38" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="tx_bubing_pugong" width="512" height="512">
+  <SubTexture name="part-tx_bubing_pugong_007" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="340" y="142"/>
+  <SubTexture name="part-tx_bubing_pugong_006" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="340" y="0"/>
+  <SubTexture name="part-tx_bubing_pugong_005" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="0" y="284"/>
+  <SubTexture name="part-tx_bubing_pugong_004" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="170" y="142"/>
+  <SubTexture name="part-tx_bubing_pugong_003" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="0" y="0"/>
+  <SubTexture name="part-tx_bubing_pugong_002" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="170" y="0"/>
+  <SubTexture name="part-tx_bubing_pugong_001" width="168" height="140" cocos2d_pX="90" cocos2d_pY="70" x="0" y="142"/>
+  <SubTexture name="part-tx_bubing_pugong_daoshenguang" width="185" height="120" cocos2d_pX="92.5" cocos2d_pY="60" x="182" y="284"/>
+  <SubTexture name="part-tx_bubing_pugong_kong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="170" y="284"/>
+ </TextureAtlas>
+</skeleton>

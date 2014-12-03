@@ -1,0 +1,43 @@
+<skeleton name="tx_ui_kapaihuo" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="tx_ui_kapaihuo">
+   <b name="图层 3" x="0" y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0">
+    <d name="part-kong" pX="5" pY="5"/>
+   </b>
+   <b name="图层 1" x="0" y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_ui_kapaihuo01" pX="65" pY="45"/>
+    <d name="part-tx_ui_kapaihuo02" pX="65" pY="45"/>
+    <d name="part-tx_ui_kapaihuo03" pX="65" pY="45"/>
+    <d name="part-tx_ui_kapaihuo04" pX="65" pY="45"/>
+    <d name="part-tx_ui_kapaihuo05" pX="65" pY="45"/>
+    <d name="part-tx_ui_kapaihuo06" pX="65" pY="45"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="tx_ui_kapaihuo">
+   <mov name="qishou" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+    <b name="图层 3" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="12"/>
+    </b>
+    <b name="图层 1" sc="1" dl="0">
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="2"/>
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+     <f x="0" y="-26" cocos2d_x="0" cocos2d_y="-26" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="tx_ui_kapaihuo" width="512" height="256">
+  <SubTexture name="part-tx_ui_kapaihuo06" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="132" y="92"/>
+  <SubTexture name="part-tx_ui_kapaihuo05" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="264" y="0"/>
+  <SubTexture name="part-tx_ui_kapaihuo04" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="264" y="92"/>
+  <SubTexture name="part-tx_ui_kapaihuo03" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="0" y="0"/>
+  <SubTexture name="part-tx_ui_kapaihuo02" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="132" y="0"/>
+  <SubTexture name="part-tx_ui_kapaihuo01" width="130" height="90" cocos2d_pX="65" cocos2d_pY="45" x="0" y="92"/>
+  <SubTexture name="part-kong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="396" y="0"/>
+ </TextureAtlas>
+</skeleton>

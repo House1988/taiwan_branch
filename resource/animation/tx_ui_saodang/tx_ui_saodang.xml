@@ -1,0 +1,874 @@
+<skeleton name="tx_ui_saodang" frameRate="23" version="2.2">
+  <armatures>
+    <armature name="tx_ui_saodang">
+      <b name="图层 17" x="0" y="0" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_saodang002" pX="5" pY="5"/>
+      </b>
+      <b name="图层 71" x="-136.15" y="-3.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7 复制" x="-168.15" y="12.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7  复制 2" x="-113.15" y="21.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7   复制 3" x="-141.1" y="39.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7    复制 4" x="-204.25" y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7     复制 5" x="-205.25" y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 71 复制" x="146.75" y="-2.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7  复制 20" x="178.75" y="13.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7   复制 30" x="123.75" y="22.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7    复制 40" x="151.7" y="40.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7     复制 50" x="214.85" y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 7      复制 6" x="215.85" y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12">
+        <d name="part-tx_ui_saodang995" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang101" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 65" x="-139.55" y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 2" x="-121.55" y="25.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 20" x="-155.55" y="36.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 21" x="-214.55" y="35.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 22" x="-167.55" y="5.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12 复制" x="-210.55" y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4     复制 5" x="-141.1" y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4    复制 4" x="-213.1" y="34.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4   复制 3" x="-120.15" y="25.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4  复制 2" x="-155.55" y="36.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4 复制" x="-211.1" y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="5">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 54" x="-167.55" y="5.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 23" x="147.25" y="-6.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12   复制 3" x="129.25" y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12   复制 30" x="163.25" y="36.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12   复制 31" x="222.25" y="35.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12   复制 32" x="175.25" y="5.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 12  复制 24" x="218.25" y="-6.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12">
+        <d name="part-tx_ui_saodang001" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4      复制 6" x="149.8" y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4     复制 50" x="221.8" y="34.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4    复制 40" x="128.85" y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4   复制 30" x="164.25" y="36.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4  复制 20" x="219.8" y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 4  复制 21" x="176.25" y="5.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12">
+        <d name="part-tx_ui_saodang3" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 35" x="8.35" y="-40.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="45" pY="42.5" z="1">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 2 复制" x="-98.7" y="39.85" kX="-36.88" kY="143.12" cX="1" cY="1" pX="45.05" pY="42.55" z="2">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 2  复制 2" x="54.8" y="34.95" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 2  复制 20" x="-78.2" y="43.95" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="45" pY="42.5" z="2">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 2   复制 3" x="-31.25" y="-49.7" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="45" pY="42.6" z="3">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 2   复制 30" x="76.1" y="28.95" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="45.05" pY="42.5" z="4">
+        <d name="part-tx_ui_saodang23" pX="45" pY="42.5"/>
+        <d name="part-tx_ui_saodang003" pX="45" pY="42.5"/>
+      </b>
+      <b name="图层 29" x="35.4" y="86.25" kX="0" kY="0" cX="1" cY="1" pX="53" pY="86.5" z="7">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10 复制" x="-83.4" y="76.85" kX="71.98" kY="71.98" cX="1" cY="1" pX="53.05" pY="86.55" z="2">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10  复制 2" x="83.7" y="-1.05" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="53.05" pY="86.5" z="5">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10   复制 3" x="-20.5" y="-101.5" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="53" pY="86.5" z="5">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10    复制 4" x="37.05" y="-85.55" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="53" pY="86.5" z="7">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10  复制 20" x="35.4" y="86.25" kX="0" kY="0" cX="1" cY="1" pX="53" pY="86.5" z="5">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10     复制 5" x="37.05" y="-85.55" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="53" pY="86.5" z="5">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 10      复制 6" x="83" y="-2.25" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="53" pY="86.5" z="4">
+        <d name="part-tx_ui_saodang7" pX="53" pY="86.5"/>
+        <d name="part-tx_ui_saodang8" pX="88.5" pY="122"/>
+        <d name="part-tx_ui_saodang9" pX="92" pY="133"/>
+        <d name="part-tx_ui_saodang10" pX="98" pY="138.5"/>
+        <d name="part-tx_ui_saodang11" pX="101.5" pY="129.5"/>
+        <d name="part-tx_ui_saodang12" pX="109.5" pY="143.5"/>
+      </b>
+      <b name="图层 16" x="135.9" y="62.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="8">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 13 复制" x="-130.5" y="120.85" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="3">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 13  复制 2" x="-179.6" y="-34.1" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="4">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 13   复制 3" x="-172.9" y="55.65" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="9">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 13    复制 4" x="-172.9" y="55.65" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="6">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 13     复制 5" x="173.4" y="33.05" kX="-13.73" kY="-13.73" cX="0.99" cY="0.99" pX="153.6" pY="62.65" z="5">
+        <d name="part-tx_ui_saodang91" pX="-98" pY="38.9"/>
+        <d name="part-tx_ui_saodang92" pX="155" pY="64"/>
+        <d name="part-tx_ui_saodang93" pX="156.45" pY="49.3"/>
+        <d name="part-tx_ui_saodang994" pX="156.45" pY="27.85"/>
+      </b>
+      <b name="图层 74" x="-99.6" y="-167" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_saodang16" pX="21.5" pY="23"/>
+      </b>
+      <b name="图层 76" x="-35.65" y="-167.15" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_saodang4" pX="21.5" pY="23"/>
+      </b>
+      <b name="图层 77" x="28" y="-167.5" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_saodang1" pX="21.5" pY="23"/>
+      </b>
+      <b name="元件 10" x="81" y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="16">
+        <d name="part-tx_ui_loading_dian" pX="17.5" pY="17.5"/>
+      </b>
+      <b name="元件 10 复制" x="123" y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="17">
+        <d name="part-tx_ui_loading_dian" pX="17.5" pY="17.5"/>
+      </b>
+      <b name="元件 10  复制 2" x="164" y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="18">
+        <d name="part-tx_ui_loading_dian" pX="17.5" pY="17.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_saodang">
+      <mov name="qishou" dr="84" to="0" drTW="84" lp="0" twE="NaN">
+        <b name="图层 17" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0" dI="0" dr="84"/>
+        </b>
+        <b name="图层 71" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-136.15" y="-3.15" cocos2d_x="-136.15" cocos2d_y="-3.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-122.6" y="-6.75" cocos2d_x="-122.6" cocos2d_y="-6.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-100.15" y="-3.15" cocos2d_x="-100.15" cocos2d_y="-3.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-88.6" y="-6.75" cocos2d_x="-88.6" cocos2d_y="-6.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-66.15" y="-3.15" cocos2d_x="-66.15" cocos2d_y="-3.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-48.6" y="-6.75" cocos2d_x="-48.6" cocos2d_y="-6.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-26.15" y="-3.15" cocos2d_x="-26.15" cocos2d_y="-3.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7 复制" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-168.15" y="12.85" cocos2d_x="-168.15" cocos2d_y="12.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-155.6" y="8.25" cocos2d_x="-155.6" cocos2d_y="8.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-132.15" y="14.85" cocos2d_x="-132.15" cocos2d_y="14.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-121.6" y="8.25" cocos2d_x="-121.6" cocos2d_y="8.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-98.15" y="14.85" cocos2d_x="-98.15" cocos2d_y="14.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-81.6" y="8.25" cocos2d_x="-81.6" cocos2d_y="8.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-58.15" y="14.85" cocos2d_x="-58.15" cocos2d_y="14.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-39.6" y="8.25" cocos2d_x="-39.6" cocos2d_y="8.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="图层 7  复制 2" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-113.15" y="21.85" cocos2d_x="-113.15" cocos2d_y="21.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-95.6" y="25.25" cocos2d_x="-95.6" cocos2d_y="25.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-77.15" y="19.85" cocos2d_x="-77.15" cocos2d_y="19.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-61.6" y="25.25" cocos2d_x="-61.6" cocos2d_y="25.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-43.15" y="19.85" cocos2d_x="-43.15" cocos2d_y="19.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-21.6" y="25.25" cocos2d_x="-21.6" cocos2d_y="25.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-3.15" y="19.85" cocos2d_x="-3.15" cocos2d_y="19.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7   复制 3" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-141.1" y="39.65" cocos2d_x="-141.1" cocos2d_y="39.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2"/>
+          <f x="-126.6" y="39.25" cocos2d_x="-126.6" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="2"/>
+          <f x="-105.1" y="39.65" cocos2d_x="-105.1" cocos2d_y="39.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2"/>
+          <f x="-92.6" y="39.25" cocos2d_x="-92.6" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="2"/>
+          <f x="-71.1" y="39.65" cocos2d_x="-71.1" cocos2d_y="39.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2"/>
+          <f x="-52.6" y="39.25" cocos2d_x="-52.6" cocos2d_y="39.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="2"/>
+          <f x="-31.1" y="39.65" cocos2d_x="-31.1" cocos2d_y="39.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7    复制 4" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-204.25" y="36.6" cocos2d_x="-204.25" cocos2d_y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="2"/>
+          <f x="-191.6" y="34.25" cocos2d_x="-191.6" cocos2d_y="34.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" dr="2"/>
+          <f x="-168.25" y="36.6" cocos2d_x="-168.25" cocos2d_y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="2"/>
+          <f x="-157.6" y="34.25" cocos2d_x="-157.6" cocos2d_y="34.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" dr="2"/>
+          <f x="-134.25" y="36.6" cocos2d_x="-134.25" cocos2d_y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="2"/>
+          <f x="-117.6" y="34.25" cocos2d_x="-117.6" cocos2d_y="34.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" dr="2"/>
+          <f x="-94.25" y="36.6" cocos2d_x="-94.25" cocos2d_y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="2"/>
+          <f x="-75.6" y="34.25" cocos2d_x="-75.6" cocos2d_y="34.25" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-52.25" y="36.6" cocos2d_x="-52.25" cocos2d_y="36.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f dr="49" dI="-1"/>
+        </b>
+        <b name="图层 7     复制 5" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="-205.25" y="-6.65" cocos2d_x="-205.25" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="-191.6" y="-7.75" cocos2d_x="-191.6" cocos2d_y="-7.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" dr="2"/>
+          <f x="-169.25" y="-6.65" cocos2d_x="-169.25" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="-157.6" y="-7.75" cocos2d_x="-157.6" cocos2d_y="-7.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" dr="2"/>
+          <f x="-135.25" y="-6.65" cocos2d_x="-135.25" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="-117.6" y="-7.75" cocos2d_x="-117.6" cocos2d_y="-7.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" dr="2"/>
+          <f x="-95.25" y="-6.65" cocos2d_x="-95.25" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="2"/>
+          <f x="-75.6" y="-7.75" cocos2d_x="-75.6" cocos2d_y="-7.75" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-53.25" y="-6.65" cocos2d_x="-53.25" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f dr="49" dI="-1"/>
+        </b>
+        <b name="图层 71 复制" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="146.75" y="-2.15" cocos2d_x="146.75" cocos2d_y="-2.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="2"/>
+          <f x="133.2" y="-5.75" cocos2d_x="133.2" cocos2d_y="-5.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="2"/>
+          <f x="110.75" y="-2.15" cocos2d_x="110.75" cocos2d_y="-2.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="2"/>
+          <f x="99.2" y="-5.75" cocos2d_x="99.2" cocos2d_y="-5.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="2"/>
+          <f x="76.75" y="-2.15" cocos2d_x="76.75" cocos2d_y="-2.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="2"/>
+          <f x="59.2" y="-5.75" cocos2d_x="59.2" cocos2d_y="-5.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="1" dr="2"/>
+          <f x="36.75" y="-2.15" cocos2d_x="36.75" cocos2d_y="-2.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7  复制 20" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="178.75" y="13.85" cocos2d_x="178.75" cocos2d_y="13.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="2"/>
+          <f x="166.2" y="9.25" cocos2d_x="166.2" cocos2d_y="9.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" dr="2"/>
+          <f x="142.75" y="15.85" cocos2d_x="142.75" cocos2d_y="15.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="2"/>
+          <f x="132.2" y="9.25" cocos2d_x="132.2" cocos2d_y="9.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" dr="2"/>
+          <f x="108.75" y="15.85" cocos2d_x="108.75" cocos2d_y="15.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="2"/>
+          <f x="92.2" y="9.25" cocos2d_x="92.2" cocos2d_y="9.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="1" dr="2"/>
+          <f x="68.75" y="15.85" cocos2d_x="68.75" cocos2d_y="15.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="2"/>
+          <f x="34.2" y="9.25" cocos2d_x="34.2" cocos2d_y="9.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="1" dr="2"/>
+          <f dr="51" dI="-1"/>
+        </b>
+        <b name="图层 7   复制 30" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="123.75" y="22.85" cocos2d_x="123.75" cocos2d_y="22.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="2"/>
+          <f x="106.2" y="26.25" cocos2d_x="106.2" cocos2d_y="26.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="1" dr="2"/>
+          <f x="87.75" y="20.85" cocos2d_x="87.75" cocos2d_y="20.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="2"/>
+          <f x="72.2" y="26.25" cocos2d_x="72.2" cocos2d_y="26.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="1" dr="2"/>
+          <f x="53.75" y="20.85" cocos2d_x="53.75" cocos2d_y="20.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="2"/>
+          <f x="32.2" y="26.25" cocos2d_x="32.2" cocos2d_y="26.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="1" dr="2"/>
+          <f x="13.75" y="20.85" cocos2d_x="13.75" cocos2d_y="20.85" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7    复制 40" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="151.7" y="40.65" cocos2d_x="151.7" cocos2d_y="40.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="2"/>
+          <f x="137.2" y="40.25" cocos2d_x="137.2" cocos2d_y="40.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="1" dr="2"/>
+          <f x="115.7" y="40.65" cocos2d_x="115.7" cocos2d_y="40.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="2"/>
+          <f x="103.2" y="40.25" cocos2d_x="103.2" cocos2d_y="40.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="1" dr="2"/>
+          <f x="81.7" y="40.65" cocos2d_x="81.7" cocos2d_y="40.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="2"/>
+          <f x="63.2" y="40.25" cocos2d_x="63.2" cocos2d_y="40.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="1" dr="2"/>
+          <f x="41.7" y="40.65" cocos2d_x="41.7" cocos2d_y="40.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="2"/>
+          <f dr="53" dI="-1"/>
+        </b>
+        <b name="图层 7     复制 50" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="214.85" y="37.6" cocos2d_x="214.85" cocos2d_y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="2"/>
+          <f x="202.2" y="35.25" cocos2d_x="202.2" cocos2d_y="35.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="1" dr="2"/>
+          <f x="178.85" y="37.6" cocos2d_x="178.85" cocos2d_y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="2"/>
+          <f x="168.2" y="35.25" cocos2d_x="168.2" cocos2d_y="35.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="1" dr="2"/>
+          <f x="144.85" y="37.6" cocos2d_x="144.85" cocos2d_y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="2"/>
+          <f x="128.2" y="35.25" cocos2d_x="128.2" cocos2d_y="35.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="1" dr="2"/>
+          <f x="104.85" y="37.6" cocos2d_x="104.85" cocos2d_y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="2"/>
+          <f x="70.2" y="35.25" cocos2d_x="70.2" cocos2d_y="35.25" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="5" dI="1" dr="2"/>
+          <f x="46.85" y="37.6" cocos2d_x="46.85" cocos2d_y="37.6" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f dr="49" dI="-1"/>
+        </b>
+        <b name="图层 7      复制 6" sc="1" dl="0">
+          <f dr="17" dI="-1"/>
+          <f x="215.85" y="-5.65" cocos2d_x="215.85" cocos2d_y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="2"/>
+          <f x="202.2" y="-6.75" cocos2d_x="202.2" cocos2d_y="-6.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="1" dr="2"/>
+          <f x="179.85" y="-5.65" cocos2d_x="179.85" cocos2d_y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="2"/>
+          <f x="168.2" y="-6.75" cocos2d_x="168.2" cocos2d_y="-6.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="1" dr="2"/>
+          <f x="145.85" y="-5.65" cocos2d_x="145.85" cocos2d_y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="2"/>
+          <f x="128.2" y="-6.75" cocos2d_x="128.2" cocos2d_y="-6.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="1" dr="2"/>
+          <f x="105.85" y="-5.65" cocos2d_x="105.85" cocos2d_y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="2"/>
+          <f x="70.2" y="-6.75" cocos2d_x="70.2" cocos2d_y="-6.75" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6" dI="1" dr="2"/>
+          <f x="47.85" y="-5.65" cocos2d_x="47.85" cocos2d_y="-5.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="2"/>
+          <f dr="49" dI="-1"/>
+        </b>
+        <b name="图层 65" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-139.55" y="-6.65" cocos2d_x="-139.55" cocos2d_y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 2" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-121.55" y="25.35" cocos2d_x="-121.55" cocos2d_y="25.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 20" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-155.55" y="36.35" cocos2d_x="-155.55" cocos2d_y="36.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 21" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-214.55" y="35.35" cocos2d_x="-214.55" cocos2d_y="35.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 22" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-167.55" y="5.35" cocos2d_x="-167.55" cocos2d_y="5.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12 复制" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="-210.55" y="-6.65" cocos2d_x="-210.55" cocos2d_y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 4     复制 5" sc="1" dl="0">
+          <f x="-141.1" y="-6.65" cocos2d_x="-141.1" cocos2d_y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4    复制 4" sc="1" dl="0">
+          <f x="-213.1" y="34.35" cocos2d_x="-213.1" cocos2d_y="34.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4   复制 3" sc="1" dl="0">
+          <f x="-120.15" y="25.15" cocos2d_x="-120.15" cocos2d_y="25.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4  复制 2" sc="1" dl="0">
+          <f x="-155.55" y="36.35" cocos2d_x="-155.55" cocos2d_y="36.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4 复制" sc="1" dl="0">
+          <f x="-211.1" y="-6.65" cocos2d_x="-211.1" cocos2d_y="-6.65" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="5" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 54" sc="1" dl="0">
+          <f x="-167.55" y="5.35" cocos2d_x="-167.55" cocos2d_y="5.35" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="6" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 23" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="147.25" y="-6.85" cocos2d_x="147.25" cocos2d_y="-6.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12   复制 3" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="129.25" y="25.15" cocos2d_x="129.25" cocos2d_y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12   复制 30" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="163.25" y="36.15" cocos2d_x="163.25" cocos2d_y="36.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12   复制 31" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="222.25" y="35.15" cocos2d_x="222.25" cocos2d_y="35.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12   复制 32" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="175.25" y="5.15" cocos2d_x="175.25" cocos2d_y="5.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 12  复制 24" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="218.25" y="-6.85" cocos2d_x="218.25" cocos2d_y="-6.85" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="9">
+            <colorTransform a="0" r="0" g="0" b="0" aM="100" rM="0" gM="0" bM="0"/>
+          </f>
+          <f dr="67" dI="-1"/>
+        </b>
+        <b name="图层 4      复制 6" sc="1" dl="0">
+          <f x="149.8" y="-6.65" cocos2d_x="149.8" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="7" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4     复制 50" sc="1" dl="0">
+          <f x="221.8" y="34.35" cocos2d_x="221.8" cocos2d_y="34.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="8" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4    复制 40" sc="1" dl="0">
+          <f x="128.85" y="25.15" cocos2d_x="128.85" cocos2d_y="25.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="9" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4   复制 30" sc="1" dl="0">
+          <f x="164.25" y="36.35" cocos2d_x="164.25" cocos2d_y="36.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="10" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4  复制 20" sc="1" dl="0">
+          <f x="219.8" y="-6.65" cocos2d_x="219.8" cocos2d_y="-6.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="11" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 4  复制 21" sc="1" dl="0">
+          <f x="176.25" y="5.35" cocos2d_x="176.25" cocos2d_y="5.35" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="12" dI="0" dr="8"/>
+          <f dr="76" dI="-1"/>
+        </b>
+        <b name="图层 35" sc="1" dl="0">
+          <f dr="36" dI="-1"/>
+          <f x="8.35" y="-40.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="45" pY="42.5" z="1" dI="0" dr="2"/>
+          <f x="-53.05" y="-47.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="8.35" y="-40.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="45" pY="42.5" z="1" dI="0" dr="2"/>
+          <f x="-53.05" y="-47.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="8.35" y="-40.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="45" pY="42.5" z="1" dI="0" dr="2"/>
+          <f x="-53.05" y="-47.45" cocos2d_x="-53.05" cocos2d_y="-47.45" kX="-36.88" kY="-36.88" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f dr="36" dI="-1"/>
+        </b>
+        <b name="图层 2 复制" sc="1" dl="0">
+          <f dr="36" dI="-1"/>
+          <f x="-98.7" y="39.85" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="45.05" pY="42.55" z="2" dI="0" dr="2"/>
+          <f x="-88.2" y="-21.1" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-98.7" y="39.85" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="45.05" pY="42.55" z="2" dI="0" dr="2"/>
+          <f x="-88.2" y="-21.1" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-98.7" y="39.85" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="45.05" pY="42.55" z="2" dI="0" dr="2"/>
+          <f x="-88.2" y="-21.1" cocos2d_x="-88.2" cocos2d_y="-21.1" kX="-36.88" kY="143.12" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f dr="36" dI="-1"/>
+        </b>
+        <b name="图层 2  复制 2" sc="1" dl="0">
+          <f dr="47" dI="-1"/>
+          <f x="54.8" y="34.95" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1" dI="0" dr="2"/>
+          <f x="12.95" y="80.25" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="54.8" y="34.95" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1" dI="0" dr="2"/>
+          <f x="12.95" y="80.25" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="54.8" y="34.95" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1" dI="0" dr="2"/>
+          <f x="12.95" y="80.25" cocos2d_x="12.95" cocos2d_y="80.25" kX="176.17" kY="-3.83" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f dr="25" dI="-1"/>
+        </b>
+        <b name="图层 2  复制 20" sc="1" dl="0">
+          <f dr="47" dI="-1"/>
+          <f x="-78.2" y="43.95" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="45" pY="42.5" z="2" dI="0" dr="2"/>
+          <f x="-30.7" y="83.15" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-78.2" y="43.95" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="45" pY="42.5" z="2" dI="0" dr="2"/>
+          <f x="-30.7" y="83.15" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-78.2" y="43.95" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="45" pY="42.5" z="2" dI="0" dr="2"/>
+          <f x="-30.7" y="83.15" cocos2d_x="-30.7" cocos2d_y="83.15" kX="176.17" kY="176.17" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f dr="25" dI="-1"/>
+        </b>
+        <b name="图层 2   复制 3" sc="1" dl="0">
+          <f dr="56" dI="-1"/>
+          <f x="-31.25" y="-49.7" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="45" pY="42.6" z="3" dI="0" dr="2"/>
+          <f x="29.8" y="-57.4" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-31.25" y="-49.7" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1" dI="0" dr="2"/>
+          <f x="29.8" y="-57.4" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-31.25" y="-49.7" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="45" pY="42.6" z="1" dI="0" dr="2"/>
+          <f x="29.8" y="-57.4" cocos2d_x="29.8" cocos2d_y="-57.4" kX="36.25" kY="-143.75" cX="0.99" cY="0.99" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="图层 2   复制 30" sc="1" dl="0">
+          <f dr="56" dI="-1"/>
+          <f x="76.1" y="28.95" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="45.05" pY="42.5" z="4" dI="0" dr="2"/>
+          <f x="65" y="-31.55" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="76.1" y="28.95" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="45.05" pY="42.5" z="2" dI="0" dr="2"/>
+          <f x="65" y="-31.55" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="76.1" y="28.95" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="45.05" pY="42.5" z="2" dI="0" dr="2"/>
+          <f x="65" y="-31.55" cocos2d_x="65" cocos2d_y="-31.55" kX="36.25" kY="36.25" cX="0.99" cY="0.99" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="图层 29" sc="1" dl="0">
+          <f dr="31" dI="-1"/>
+          <f x="35.4" y="86.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="53" pY="86.5" z="7" dI="0" dr="2"/>
+          <f x="70.9" y="121.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="88.5" pY="122" z="5" dI="1" dr="2"/>
+          <f x="74.4" y="132.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="92" pY="133" z="3" dI="2" dr="2"/>
+          <f x="80.4" y="138.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="98" pY="138.5" z="3" dI="3" dr="2"/>
+          <f x="83.9" y="129.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="129.5" z="3" dI="4" dr="2"/>
+          <f x="91.9" y="143.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="109.5" pY="143.5" z="3" dI="5" dr="2"/>
+          <f dr="41" dI="-1"/>
+        </b>
+        <b name="图层 10 复制" sc="1" dl="0">
+          <f dr="34" dI="-1"/>
+          <f x="-83.4" y="76.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="53.05" pY="86.55" z="2" dI="0" dr="2"/>
+          <f x="-106.15" y="121.55" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="88.55" pY="122.05" z="4" dI="1" dr="2"/>
+          <f x="-115.5" y="128.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="92.05" pY="133" z="4" dI="2" dr="2"/>
+          <f x="-118.9" y="135.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="98" pY="138.55" z="4" dI="3" dr="2"/>
+          <f x="-109.3" y="136.2" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="101.5" pY="129.55" z="3" dI="4" dr="2"/>
+          <f x="-120.1" y="148.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="109.45" pY="143.5" z="3" dI="5" dr="2"/>
+          <f dr="38" dI="-1"/>
+        </b>
+        <b name="图层 10  复制 2" sc="1" dl="0">
+          <f dr="37" dI="-1"/>
+          <f x="83.7" y="-1.05" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="53.05" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="132.35" y="-13.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="88.5" pY="122.05" z="5" dI="1" dr="2"/>
+          <f x="143.6" y="-10.45" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="92" pY="133.05" z="5" dI="2" dr="2"/>
+          <f x="151.4" y="-12.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="98.05" pY="138.55" z="4" dI="3" dr="2"/>
+          <f x="145.5" y="-20.4" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="101.55" pY="129.55" z="3" dI="4" dr="2"/>
+          <f x="161.5" y="-20.05" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="109.5" pY="143.45" z="3" dI="5" dr="2"/>
+          <f dr="5" dI="-1"/>
+          <f x="-83.4" y="76.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="53.05" pY="86.55" z="5" dI="0" dr="2"/>
+          <f x="-106.15" y="121.55" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="88.55" pY="122.05" z="7" dI="1" dr="2"/>
+          <f x="-115.5" y="128.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="92.05" pY="133" z="4" dI="2" dr="2"/>
+          <f x="-118.9" y="135.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="98" pY="138.55" z="4" dI="3" dr="2"/>
+          <f x="-109.3" y="136.2" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="101.5" pY="129.55" z="3" dI="4" dr="2"/>
+          <f x="-120.1" y="148.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="71.98" kY="71.98" cX="1" cY="1" pX="109.45" pY="143.5" z="3" dI="5" dr="2"/>
+          <f dr="18" dI="-1"/>
+        </b>
+        <b name="图层 10   复制 3" sc="1" dl="0">
+          <f dr="42" dI="-1"/>
+          <f x="-20.5" y="-101.5" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="53" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="-33.6" y="-149.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="88.55" pY="122" z="5" dI="1" dr="2"/>
+          <f x="-31.2" y="-161.2" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="92.05" pY="133" z="6" dI="2" dr="2"/>
+          <f x="-33.6" y="-168.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="98" pY="138.5" z="3" dI="3" dr="2"/>
+          <f x="-41.1" y="-162.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="101.5" pY="129.5" z="3" dI="4" dr="2"/>
+          <f x="-41.15" y="-179" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="109.6" pY="143.5" z="3" dI="5" dr="2"/>
+          <f dr="4" dI="-1"/>
+          <f x="83.7" y="-1.05" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="53.05" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="132.35" y="-13.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="88.5" pY="122.05" z="5" dI="1" dr="2"/>
+          <f x="143.6" y="-10.45" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="92" pY="133.05" z="4" dI="2" dr="2"/>
+          <f x="151.4" y="-12.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="98.05" pY="138.55" z="4" dI="3" dr="2"/>
+          <f x="145.5" y="-20.4" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="101.55" pY="129.55" z="3" dI="4" dr="2"/>
+          <f x="161.5" y="-20.05" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-58.95" kY="-58.95" cX="1" cY="1" pX="109.5" pY="143.45" z="1" dI="5" dr="2"/>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="图层 10    复制 4" sc="1" dl="0">
+          <f dr="46" dI="-1"/>
+          <f x="37.05" y="-85.55" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="53" pY="86.5" z="7" dI="0" dr="2"/>
+          <f x="53.5" y="-132.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="88.45" pY="121.95" z="4" dI="1" dr="2"/>
+          <f x="61.9" y="-140.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="91.95" pY="133.05" z="4" dI="2" dr="2"/>
+          <f x="64.25" y="-148.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="97.95" pY="138.55" z="4" dI="3" dr="2"/>
+          <f x="54.6" y="-147.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="101.45" pY="129.5" z="3" dI="4" dr="2"/>
+          <f x="63.7" y="-161.15" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="109.45" pY="143.5" z="5" dI="5" dr="2"/>
+          <f dr="3" dI="-1"/>
+          <f x="-20.5" y="-101.5" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="53" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="-33.6" y="-149.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="88.55" pY="122" z="5" dI="1" dr="2"/>
+          <f x="-31.2" y="-161.2" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="92.05" pY="133" z="4" dI="2" dr="2"/>
+          <f x="-33.6" y="-168.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="98" pY="138.5" z="2" dI="3" dr="2"/>
+          <f x="-41.1" y="-162.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="101.5" pY="129.5" z="1" dI="4" dr="2"/>
+          <f x="-41.15" y="-179" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-150.14" kY="-150.14" cX="1" cY="1" pX="109.6" pY="143.5" z="1" dI="5" dr="2"/>
+          <f dr="11" dI="-1"/>
+        </b>
+        <b name="图层 10  复制 20" sc="1" dl="0">
+          <f dr="50" dI="-1"/>
+          <f x="35.4" y="86.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="53" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="70.9" y="121.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="88.5" pY="122" z="5" dI="1" dr="2"/>
+          <f x="74.4" y="132.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="92" pY="133" z="4" dI="2" dr="2"/>
+          <f x="80.4" y="138.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="98" pY="138.5" z="6" dI="3" dr="2"/>
+          <f x="83.9" y="129.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="101.5" pY="129.5" z="3" dI="4" dr="2"/>
+          <f x="91.9" y="143.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="109.5" pY="143.5" z="3" dI="5" dr="2"/>
+          <f dr="22" dI="-1"/>
+        </b>
+        <b name="图层 10     复制 5" sc="1" dl="0">
+          <f dr="65" dI="-1"/>
+          <f x="37.05" y="-85.55" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="53" pY="86.5" z="5" dI="0" dr="2"/>
+          <f x="53.5" y="-132.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="88.45" pY="121.95" z="3" dI="1" dr="2"/>
+          <f x="61.9" y="-140.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="91.95" pY="133.05" z="2" dI="2" dr="2"/>
+          <f x="64.25" y="-148.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="97.95" pY="138.55" z="2" dI="3" dr="2"/>
+          <f x="54.6" y="-147.9" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="101.45" pY="129.5" z="1" dI="4" dr="2"/>
+          <f x="63.7" y="-161.15" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-115.85" kY="-115.85" cX="1" cY="1" pX="109.45" pY="143.5" z="1" dI="5" dr="2"/>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="图层 10      复制 6" sc="1" dl="0">
+          <f dr="68" dI="-1"/>
+          <f x="83" y="-2.25" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="53" pY="86.5" z="4" dI="0" dr="2"/>
+          <f x="125.95" y="-27.9" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="88.5" pY="121.9" z="3" dI="1" dr="2"/>
+          <f x="137.55" y="-28.55" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="92" pY="133" z="2" dI="2" dr="2"/>
+          <f x="144.35" y="-33" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="98.05" pY="138.55" z="2" dI="3" dr="2"/>
+          <f x="136.45" y="-38.65" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="101.55" pY="129.45" z="1" dI="4" dr="2"/>
+          <f x="151.95" y="-42.9" cocos2d_x="-13.6" cocos2d_y="27.75" kX="-75.77" kY="-75.77" cX="1" cY="1" pX="109.5" pY="143.45" z="1" dI="5" dr="2"/>
+          <f dr="4" dI="-1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="31" dI="-1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="8" dI="0" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="8" dI="1" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="2" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="7" dI="3" dr="1"/>
+          <f dr="8" dI="-1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="0" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="1" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="2" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="3" dr="1"/>
+          <f dr="37" dI="-1"/>
+        </b>
+        <b name="图层 13 复制" sc="1" dl="0">
+          <f dr="35" dI="-1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="3" dI="0" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="5" dI="1" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="2" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="3" dr="1"/>
+          <f x="95.3" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-110.84" kY="69.16" cX="1" cY="1" pX="153.5" pY="62.45" z="6" dI="0" dr="1"/>
+          <f x="95.3" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-110.84" kY="69.16" cX="1" cY="1" pX="153.5" pY="62.45" z="6" dI="1" dr="1"/>
+          <f x="95.3" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-110.84" kY="69.16" cX="1" cY="1" pX="153.5" pY="62.45" z="6" dI="2" dr="1"/>
+          <f x="95.3" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-110.84" kY="69.16" cX="1" cY="1" pX="153.5" pY="62.45" z="7" dI="3" dr="1"/>
+          <f dr="41" dI="-1"/>
+        </b>
+        <b name="图层 13  复制 2" sc="1" dl="0">
+          <f dr="35" dI="-1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="4" dI="0" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="6" dI="1" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="7" dI="2" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="7" dI="3" dr="1"/>
+          <f x="144.4" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-33.98" kY="-33.98" cX="1" cY="1" pX="153.45" pY="62.55" z="7" dI="0" dr="1"/>
+          <f x="144.4" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-33.98" kY="-33.98" cX="1" cY="1" pX="153.45" pY="62.55" z="7" dI="1" dr="1"/>
+          <f x="144.4" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-33.98" kY="-33.98" cX="1" cY="1" pX="153.45" pY="62.55" z="7" dI="2" dr="1"/>
+          <f x="144.4" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-33.98" kY="-33.98" cX="1" cY="1" pX="153.45" pY="62.55" z="8" dI="3" dr="1"/>
+          <f dr="4" dI="-1"/>
+          <f x="29" y="158.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-84.19" kY="95.81" cX="1" cY="1" pX="153.45" pY="62.5" z="8" dI="0" dr="1"/>
+          <f x="29" y="158.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-84.19" kY="95.81" cX="1" cY="1" pX="153.45" pY="62.5" z="6" dI="1" dr="1"/>
+          <f x="29" y="158.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-84.19" kY="95.81" cX="1" cY="1" pX="153.45" pY="62.5" z="5" dI="2" dr="1"/>
+          <f x="29" y="158.75" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="-84.19" kY="95.81" cX="1" cY="1" pX="153.45" pY="62.5" z="6" dI="3" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="0" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="1" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="2" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="3" dr="1"/>
+          <f dr="29" dI="-1"/>
+        </b>
+        <b name="图层 13   复制 3" sc="1" dl="0">
+          <f dr="31" dI="-1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="9" dI="0" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="9" dI="1" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="2" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="8" dI="3" dr="1"/>
+          <f dr="8" dI="-1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="0" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="1" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="2" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="3" dr="1"/>
+          <f dr="8" dI="-1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="6" dI="0" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="8" dI="1" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="8" dI="2" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="8" dI="3" dr="1"/>
+          <f dr="4" dI="-1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="0" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="1" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="7" dI="2" dr="1"/>
+          <f x="135.9" y="62.25" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="0" kY="0" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="3" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="6" dI="0" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="5" dI="1" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="5" dI="2" dr="1"/>
+          <f x="-130.5" y="120.85" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="110.84" kY="110.84" cX="1" cY="1" pX="153.5" pY="62.5" z="4" dI="3" dr="1"/>
+          <f dr="13" dI="-1"/>
+        </b>
+        <b name="图层 13    复制 4" sc="1" dl="0">
+          <f dr="59" dI="-1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="6" dI="0" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="6" dI="1" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="7" dI="2" dr="1"/>
+          <f x="-172.9" y="55.65" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="138" kY="138" cX="1" cY="1" pX="153.4" pY="62.6" z="6" dI="3" dr="1"/>
+          <f dr="8" dI="-1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="4" dI="0" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="4" dI="1" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="3" dI="2" dr="1"/>
+          <f x="-179.6" y="-34.1" cocos2d_x="-17.6" cocos2d_y="-0.25" kX="33.98" kY="-146.02" cX="1" cY="1" pX="153.45" pY="62.55" z="3" dI="3" dr="1"/>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="图层 13     复制 5" sc="1" dl="0">
+          <f dr="71" dI="-1"/>
+          <f x="173.4" y="33.05" cocos2d_x="10.4" cocos2d_y="8.75" kX="-13.73" kY="-13.73" cX="0.99" cY="0.99" pX="153.6" pY="62.65" z="5" dI="0" dr="1"/>
+          <f x="173.4" y="33.05" cocos2d_x="10.4" cocos2d_y="8.75" kX="-13.73" kY="-13.73" cX="0.99" cY="0.99" pX="153.6" pY="62.65" z="5" dI="1" dr="1"/>
+          <f x="173.4" y="33.05" cocos2d_x="10.4" cocos2d_y="8.75" kX="-13.73" kY="-13.73" cX="0.99" cY="0.99" pX="153.6" pY="62.65" z="4" dI="2" dr="1"/>
+          <f x="173.4" y="33.05" cocos2d_x="10.4" cocos2d_y="8.75" kX="-13.73" kY="-13.73" cX="0.99" cY="0.99" pX="153.6" pY="62.65" z="4" dI="3" dr="1"/>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="图层 74" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="-99.6" y="-167" cocos2d_x="-99.6" cocos2d_y="-167" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="1" dI="0" dr="79"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="图层 76" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="-35.65" y="-167.15" cocos2d_x="-35.65" cocos2d_y="-167.15" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="2" dI="0" dr="79"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="图层 77" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="28" y="-167.5" cocos2d_x="28" cocos2d_y="-167.5" kX="0" kY="0" cX="1.2" cY="1.2" pX="0" pY="0" z="3" dI="0" dr="79"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="元件 10" sc="1" dl="0">
+          <f dr="8" dI="-1"/>
+          <f x="81" y="-153.75" cocos2d_x="81" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="16" dI="0" dr="22"/>
+          <f dr="4" dI="-1"/>
+          <f x="81" y="-153.75" cocos2d_x="81" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="10" dI="0" dr="22"/>
+          <f dr="4" dI="-1"/>
+          <f x="81" y="-153.75" cocos2d_x="81" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="4" dI="0" dr="22"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="元件 10 复制" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="123" y="-153.75" cocos2d_x="123" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="17" dI="0" dr="14"/>
+          <f dr="12" dI="-1"/>
+          <f x="123" y="-153.75" cocos2d_x="123" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="11" dI="0" dr="14"/>
+          <f dr="12" dI="-1"/>
+          <f x="123" y="-153.75" cocos2d_x="123" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="5" dI="0" dr="14"/>
+          <f dr="2" dI="-1"/>
+        </b>
+        <b name="元件 10  复制 2" sc="1" dl="0">
+          <f dr="24" dI="-1"/>
+          <f x="164" y="-153.75" cocos2d_x="164" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="18" dI="0" dr="6"/>
+          <f dr="20" dI="-1"/>
+          <f x="164" y="-153.75" cocos2d_x="164" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="12" dI="0" dr="6"/>
+          <f dr="20" dI="-1"/>
+          <f x="164" y="-153.75" cocos2d_x="164" cocos2d_y="-153.75" kX="0" kY="0" cX="1.32" cY="1.32" pX="0" pY="0" z="6" dI="0" dr="6"/>
+          <f dr="2" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_saodang" width="1024" height="512">
+    <SubTexture name="part-tx_ui_loading_dian" width="35" height="35" cocos2d_pX="17.5" cocos2d_pY="17.5" x="918" y="333"/>
+    <SubTexture name="part-tx_ui_saodang1" width="43" height="46" cocos2d_pX="21.5" cocos2d_pY="23" x="151" y="289"/>
+    <SubTexture name="part-tx_ui_saodang4" width="43" height="46" cocos2d_pX="21.5" cocos2d_pY="23" x="573" y="261"/>
+    <SubTexture name="part-tx_ui_saodang16" width="43" height="46" cocos2d_pX="21.5" cocos2d_pY="23" x="573" y="309"/>
+    <SubTexture name="part-tx_ui_saodang994" width="152" height="91" cocos2d_pX="156.45" cocos2d_pY="27.85" x="419" y="261"/>
+    <SubTexture name="part-tx_ui_saodang93" width="226" height="103" cocos2d_pX="156.45" cocos2d_pY="49.3" x="92" y="366"/>
+    <SubTexture name="part-tx_ui_saodang92" width="310" height="128" cocos2d_pX="155" cocos2d_pY="64" x="405" y="357"/>
+    <SubTexture name="part-tx_ui_saodang91" width="57" height="63" cocos2d_pX="-98" cocos2d_pY="38.9" x="92" y="289"/>
+    <SubTexture name="part-tx_ui_saodang12" width="219" height="287" cocos2d_pX="109.5" cocos2d_pY="143.5" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_saodang11" width="203" height="259" cocos2d_pX="101.5" cocos2d_pY="129.5" x="419" y="0"/>
+    <SubTexture name="part-tx_ui_saodang10" width="196" height="277" cocos2d_pX="98" cocos2d_pY="138.5" x="221" y="0"/>
+    <SubTexture name="part-tx_ui_saodang9" width="184" height="266" cocos2d_pX="92" cocos2d_pY="133" x="624" y="0"/>
+    <SubTexture name="part-tx_ui_saodang8" width="177" height="244" cocos2d_pX="88.5" cocos2d_pY="122" x="810" y="0"/>
+    <SubTexture name="part-tx_ui_saodang7" width="106" height="173" cocos2d_pX="53" cocos2d_pY="86.5" x="810" y="246"/>
+    <SubTexture name="part-tx_ui_saodang003" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="918" y="246"/>
+    <SubTexture name="part-tx_ui_saodang23" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="618" y="268"/>
+    <SubTexture name="part-tx_ui_saodang3" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="710" y="268"/>
+    <SubTexture name="part-tx_ui_saodang001" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="0" y="289"/>
+    <SubTexture name="part-tx_ui_saodang101" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="313" y="279"/>
+    <SubTexture name="part-tx_ui_saodang995" width="90" height="85" cocos2d_pX="45" cocos2d_pY="42.5" x="221" y="279"/>
+    <SubTexture name="part-tx_ui_saodang002" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="989" y="0"/>
+  </TextureAtlas>
+</skeleton>

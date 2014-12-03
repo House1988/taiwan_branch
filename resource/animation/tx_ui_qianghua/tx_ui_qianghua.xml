@@ -1,0 +1,326 @@
+<skeleton name="tx_ui_qianghua" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_qianghua">
+      <b name="图层 18" x="0" y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_qianghua008" pX="5" pY="5"/>
+      </b>
+      <b name="图层 5" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_qianghua001" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua002" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua003" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua004" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua005" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua006" pX="80" pY="110"/>
+        <d name="part-tx_ui_qianghua007" pX="80" pY="110"/>
+      </b>
+      <b name="图层 8" x="-127.15" y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_qianghua18" pX="96" pY="28"/>
+      </b>
+      <b name="图层 11" x="137.85" y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_qianghua13" pX="14" pY="30"/>
+      </b>
+      <b name="图层 9" x="-56.15" y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_qianghua14" pX="50" pY="28.5"/>
+      </b>
+      <b name="图层 10" x="240.1" y="76.25" kX="0" kY="0" cX="2.5" cY="2.5" pX="33.5" pY="30.5" z="4">
+        <d name="part-tx_ui_qianghua01" pX="33.5" pY="30.5"/>
+      </b>
+      <b name="图层 11 复制" x="413.85" y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="5">
+        <d name="part-tx_ui_qianghua13" pX="14" pY="30"/>
+      </b>
+      <b name="图层 11  复制 2" x="326.35" y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="6">
+        <d name="part-tx_ui_qianghua13" pX="14" pY="30"/>
+      </b>
+      <b name="图层 13" x="-151.05" y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_qianghua03" pX="51.5" pY="29"/>
+      </b>
+      <b name="图层 11   复制 3" x="267.1" y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_qianghua13" pX="14" pY="30"/>
+      </b>
+      <b name="图层 11    复制 4" x="344.6" y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="4">
+        <d name="part-tx_ui_qianghua13" pX="14" pY="30"/>
+      </b>
+      <b name="图层 15" x="17.1" y="71.25" kX="0" kY="0" cX="2.5" cY="2.5" pX="50" pY="28.5" z="5">
+        <d name="part-tx_ui_qianghua14" pX="50" pY="28.5"/>
+      </b>
+      <b name="图层 16" x="210.85" y="70" kX="0" kY="0" cX="2.5" cY="2.5" pX="43.5" pY="28" z="6">
+        <d name="part-tx_ui_qianghua02" pX="43.5" pY="28"/>
+        <d name="part-tx_ui_qianghua19" pX="44.5" pY="29"/>
+        <d name="part-tx_ui_qianghua20" pX="47" pY="27.65"/>
+        <d name="part-tx_ui_qianghua21" pX="43.15" pY="30.15"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_qianghua">
+      <mov name="qh" dr="14" to="0" drTW="14" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="14"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+        </b>
+      </mov>
+      <mov name="jiayi" dr="18" to="0" drTW="18" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="90"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-127.15" y="0" cocos2d_x="-127.15" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="1" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-106" y="0" cocos2d_x="-106" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="137.85" y="0" cocos2d_x="137.85" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="2" dI="0" dr="11"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-56.15" y="0" cocos2d_x="-56.15" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="3" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="61" y="0" cocos2d_x="61" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="11"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="240.1" y="76.25" cocos2d_x="156.35" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="33.5" pY="30.5" z="4" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="179.5" y="30.5" cocos2d_x="146" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="33.5" pY="30.5" z="4" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11 复制" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="413.85" y="0" cocos2d_x="413.85" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="5" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="249" y="0" cocos2d_x="249" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="5" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="326.35" y="0" cocos2d_x="326.35" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="6" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="15" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="214" y="0" cocos2d_x="214" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="6" dI="0" dr="11"/>
+        </b>
+      </mov>
+      <mov name="jiaer" dr="18" to="0" drTW="18" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="72"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-151.05" y="0" cocos2d_x="-151.05" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="0" pY="0" z="1" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-125" y="0" cocos2d_x="-125" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="18.95" y="0" cocos2d_x="18.95" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-57" y="0" cocos2d_x="-57" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="2" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11   复制 3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="267.1" y="0" cocos2d_x="267.1" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="3" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="154" y="0" cocos2d_x="154" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="3" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11    复制 4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="344.6" y="0" cocos2d_x="344.6" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="4" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="185" y="0" cocos2d_x="185" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="4" dI="0" dr="11"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="17.1" y="71.25" cocos2d_x="-107.9" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="50" pY="28.5" z="5" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="54" y="28.5" cocos2d_x="4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="50" pY="28.5" z="5" dI="0" dr="11"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="210.85" y="70" cocos2d_x="102.1" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="43.5" pY="28" z="6" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="131.5" y="28" cocos2d_x="88" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="43.5" pY="28" z="6" dI="0" dr="11"/>
+        </b>
+      </mov>
+      <mov name="jia3" dr="18" to="6" drTW="18" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="54"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-22.3" y="72.5" cocos2d_x="-151.05" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="51.5" pY="29" z="1" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-73.5" y="29" cocos2d_x="-125" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="51.5" pY="29" z="1" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="18.95" y="0" cocos2d_x="18.95" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-57" y="0" cocos2d_x="-57" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="2" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11   复制 3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="267.1" y="0" cocos2d_x="267.1" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="3" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="154" y="0" cocos2d_x="154" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="3" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11    复制 4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="344.6" y="0" cocos2d_x="344.6" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="4" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="185" y="0" cocos2d_x="185" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="4" dI="0" dr="11"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="17.1" y="71.25" cocos2d_x="-107.9" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="50" pY="28.5" z="5" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="54" y="28.5" cocos2d_x="4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="50" pY="28.5" z="5" dI="0" dr="11"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="108.75" y="-5.4" cocos2d_x="111.25" cocos2d_y="-7.75" kX="0" kY="0" cX="2.5" cY="2.33" pX="-1" pY="1" z="6" dI="1" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="97.5" y="-1.5" cocos2d_x="98.5" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="-1" pY="1" z="6" dI="1" dr="11"/>
+        </b>
+      </mov>
+      <mov name="jia4" dr="18" to="6" drTW="18" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="36"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-22.3" y="72.5" cocos2d_x="-151.05" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="51.5" pY="29" z="1" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-73.5" y="29" cocos2d_x="-125" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="51.5" pY="29" z="1" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="18.95" y="0" cocos2d_x="18.95" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-57" y="0" cocos2d_x="-57" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="2" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11   复制 3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="267.1" y="0" cocos2d_x="267.1" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="3" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="154" y="0" cocos2d_x="154" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="3" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11    复制 4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="344.6" y="0" cocos2d_x="344.6" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="4" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="185" y="0" cocos2d_x="185" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="4" dI="0" dr="11"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="17.1" y="71.25" cocos2d_x="-107.9" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="50" pY="28.5" z="5" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="54" y="28.5" cocos2d_x="4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="50" pY="28.5" z="5" dI="0" dr="11"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="103.15" y="4.25" cocos2d_x="108" cocos2d_y="1" kX="0" kY="0" cX="2.42" cY="2.41" pX="-2" pY="1.35" z="6" dI="2" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="104" y="3.35" cocos2d_x="106" cocos2d_y="2" kX="0" kY="0" cX="1" cY="1" pX="-2" pY="1.35" z="6" dI="2" dr="11"/>
+        </b>
+      </mov>
+      <mov name="jia5" dr="18" to="6" drTW="18" lp="0" twE="NaN">
+        <b name="图层 18" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.02" cY="100.02" pX="0" pY="0" z="0" dI="0" dr="18"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-22.3" y="72.5" cocos2d_x="-151.05" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="51.5" pY="29" z="1" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-73.5" y="29" cocos2d_x="-125" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="51.5" pY="29" z="1" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11  复制 2" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="18.95" y="0" cocos2d_x="18.95" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="2" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-57" y="0" cocos2d_x="-57" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="2" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11   复制 3" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="267.1" y="0" cocos2d_x="267.1" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="3" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="154" y="0" cocos2d_x="154" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="3" dI="0" dr="11"/>
+        </b>
+        <b name="图层 11    复制 4" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="344.6" y="0" cocos2d_x="344.6" cocos2d_y="0" kX="0" kY="0" cX="3.25" cY="3.25" pX="0" pY="0" z="4" dI="0" twE="-1" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="185" y="0" cocos2d_x="185" cocos2d_y="0" kX="0" kY="0" cX="1.3" cY="1.3" pX="0" pY="0" z="4" dI="0" dr="11"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="17.1" y="71.25" cocos2d_x="-107.9" cocos2d_y="0" kX="0" kY="0" cX="2.5" cY="2.5" pX="50" pY="28.5" z="5" dI="0" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="54" y="28.5" cocos2d_x="4" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="50" pY="28.5" z="5" dI="0" dr="11"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="99.3" y="-1.55" cocos2d_x="96" cocos2d_y="0" kX="0" kY="0" cX="2.44" cY="2.37" pX="1.35" pY="-0.65" z="6" dI="3" twE="-0.99" dr="3">
+            <colorTransform a="0" r="0" g="0" b="0" aM="17" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="98.35" y="-0.65" cocos2d_x="97" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="1.35" pY="-0.65" z="6" dI="3" dr="11"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_qianghua" width="1024" height="512">
+    <SubTexture name="part-tx_ui_qianghua21" width="89" height="59" cocos2d_pX="43.15" cocos2d_pY="30.15" x="724" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua20" width="90" height="58" cocos2d_pX="47" cocos2d_pY="27.65" x="632" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua19" width="87" height="60" cocos2d_pX="44.5" cocos2d_pY="29" x="815" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua02" width="87" height="56" cocos2d_pX="43.5" cocos2d_pY="28" x="904" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua03" width="103" height="58" cocos2d_pX="51.5" cocos2d_pY="29" x="162" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua01" width="67" height="61" cocos2d_pX="33.5" cocos2d_pY="30.5" x="563" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua14" width="100" height="57" cocos2d_pX="50" cocos2d_pY="28.5" x="461" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua13" width="28" height="60" cocos2d_pX="14" cocos2d_pY="30" x="972" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua18" width="192" height="56" cocos2d_pX="96" cocos2d_pY="28" x="267" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua007" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="810" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua006" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="648" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua005" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="486" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua004" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="162" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua003" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua002" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="0" y="222"/>
+    <SubTexture name="part-tx_ui_qianghua001" width="160" height="220" cocos2d_pX="80" cocos2d_pY="110" x="324" y="0"/>
+    <SubTexture name="part-tx_ui_qianghua008" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="1002" y="0"/>
+  </TextureAtlas>
+</skeleton>

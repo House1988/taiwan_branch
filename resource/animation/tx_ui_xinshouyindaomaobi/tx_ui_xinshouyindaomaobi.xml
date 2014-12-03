@@ -1,0 +1,81 @@
+<skeleton name="tx_ui_xinshouyindaomaobi" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_xinshouyindaomaobi">
+      <b name="图层 5" x="0" y="0.45" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0">
+        <d name="part-tx_xinshouyindaomaobi01" pX="5" pY="5"/>
+      </b>
+      <b name="图层 8" x="77.5" y="55" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1">
+        <d name="part-元件 1" pX="77.5" pY="55"/>
+        <d name="part-元件 2" pX="77.5" pY="55"/>
+        <d name="part-元件 3" pX="77.5" pY="55"/>
+        <d name="part-元件 4" pX="77.5" pY="55"/>
+        <d name="part-元件 5" pX="77.5" pY="55"/>
+        <d name="part-元件 6" pX="77.5" pY="55"/>
+        <d name="part-元件 7" pX="77.5" pY="55"/>
+        <d name="part-元件 8" pX="77.5" pY="55"/>
+        <d name="part-元件 9" pX="77.5" pY="55"/>
+        <d name="part-元件 10" pX="77.5" pY="55"/>
+      </b>
+      <b name="maobi0" x="-41.6" y="-27.65" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36.95" z="2">
+        <d name="part-tx_ui_xinshouyindaomaobi_bi" pX="25" pY="42.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_xinshouyindaomaobi">
+      <mov name="qishou" dr="20" to="0" drTW="20" lp="1" twE="NaN">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="0" y="0.45" cocos2d_x="0" cocos2d_y="0.45" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="20"/>
+        </b>
+        <b name="图层 8" sc="1" dl="0">
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="0" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="1" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="2" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="3" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="4" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="5" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="6" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="7" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="8" dr="2"/>
+          <f x="77.5" y="55" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="77.5" pY="55" z="1" dI="9" dr="2"/>
+        </b>
+        <b name="maobi0" sc="1" dl="0">
+          <f x="-41.6" y="-27.65" cocos2d_x="-25.6" cocos2d_y="-64.6" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36.95" z="2" dI="0" dr="1"/>
+          <f x="-61.35" y="-12" cocos2d_x="-45.35" cocos2d_y="-48" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-63.9" y="2.55" cocos2d_x="-47.9" cocos2d_y="-33.45" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-58.8" y="16.45" cocos2d_x="-42.8" cocos2d_y="-19.55" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-48" y="27.05" cocos2d_x="-32" cocos2d_y="-8.95" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-34.95" y="34.35" cocos2d_x="-18.95" cocos2d_y="-1.65" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-20.6" y="38.85" cocos2d_x="-4.6" cocos2d_y="2.85" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-5.7" y="40.85" cocos2d_x="10.3" cocos2d_y="4.85" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="9.15" y="40.65" cocos2d_x="25.15" cocos2d_y="4.65" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="23.75" y="38.35" cocos2d_x="39.75" cocos2d_y="2.35" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="37.8" y="33.5" cocos2d_x="53.8" cocos2d_y="-2.5" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="50.6" y="25.9" cocos2d_x="66.6" cocos2d_y="-10.1" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="61.45" y="13.8" cocos2d_x="77.45" cocos2d_y="-22.2" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="64.9" y="-2.2" cocos2d_x="80.9" cocos2d_y="-38.2" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="59.05" y="-17.55" cocos2d_x="75.05" cocos2d_y="-53.55" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="46.55" y="-28.7" cocos2d_x="62.55" cocos2d_y="-64.7" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="31.65" y="-36.05" cocos2d_x="47.65" cocos2d_y="-72.05" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="15.4" y="-40" cocos2d_x="31.4" cocos2d_y="-76" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-6.25" y="-39" cocos2d_x="9.75" cocos2d_y="-75" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+          <f x="-20.65" y="-35.45" cocos2d_x="-4.65" cocos2d_y="-71.45" kX="0" kY="0" cX="1" cY="1" pX="-16" pY="36" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_xinshouyindaomaobi" width="512" height="512">
+    <SubTexture name="part-tx_ui_xinshouyindaomaobi_bi" width="50" height="85" cocos2d_pX="25" cocos2d_pY="42.5" x="157" y="336"/>
+    <SubTexture name="part-元件 10" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="314" y="0"/>
+    <SubTexture name="part-元件 9" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="0" y="112"/>
+    <SubTexture name="part-元件 8" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="314" y="224"/>
+    <SubTexture name="part-元件 7" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="314" y="112"/>
+    <SubTexture name="part-元件 6" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="157" y="0"/>
+    <SubTexture name="part-元件 5" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="0" y="0"/>
+    <SubTexture name="part-元件 4" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="157" y="112"/>
+    <SubTexture name="part-元件 3" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="0" y="224"/>
+    <SubTexture name="part-元件 2" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="157" y="224"/>
+    <SubTexture name="part-元件 1" width="155" height="110" cocos2d_pX="77.5" cocos2d_pY="55" x="0" y="336"/>
+    <SubTexture name="part-tx_xinshouyindaomaobi01" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="471" y="0"/>
+  </TextureAtlas>
+</skeleton>

@@ -1,0 +1,69 @@
+<skeleton name="tx_zd_hengsao" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_zd_hengsao">
+      <b name="图层 2" x="0" y="0" kX="0" kY="0" cX="199.95" cY="199.95" pX="0" pY="0" z="0">
+        <d name="part-tx_zd_hengsaokong" pX="5" pY="5"/>
+      </b>
+      <b name="图层 13" x="-37" y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_zd_hengsao_01" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_02" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_03" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_04" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_05" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_06" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_07" pX="225" pY="107.5"/>
+      </b>
+      <b name="图层 7" x="37" y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_zd_hengsao_01" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_02" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_03" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_04" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_05" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_06" pX="225" pY="107.5"/>
+        <d name="part-tx_zd_hengsao_07" pX="225" pY="107.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_zd_hengsao">
+      <mov name="mingzhongyou" dr="14" to="0" drTW="14" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="199.95" cY="199.95" pX="0" pY="0" z="0" dI="0" dr="14"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+          <f x="-37" y="-6" cocos2d_x="-37" cocos2d_y="-6" kX="30" kY="30" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+        </b>
+      </mov>
+      <mov name="mingzhongzuo" dr="14" to="0" drTW="14" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="199.95" cY="199.95" pX="0" pY="0" z="0" dI="0" dr="14"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+          <f x="37" y="-17" cocos2d_x="37" cocos2d_y="-17" kX="-150" kY="-150" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_zd_hengsao" width="1024" height="1024">
+    <SubTexture name="part-tx_zd_hengsao_07" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="452" y="0"/>
+    <SubTexture name="part-tx_zd_hengsao_06" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="452" y="434"/>
+    <SubTexture name="part-tx_zd_hengsao_05" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="452" y="217"/>
+    <SubTexture name="part-tx_zd_hengsao_04" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="0" y="651"/>
+    <SubTexture name="part-tx_zd_hengsao_03" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="0" y="0"/>
+    <SubTexture name="part-tx_zd_hengsao_02" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="0" y="217"/>
+    <SubTexture name="part-tx_zd_hengsao_01" width="450" height="215" cocos2d_pX="225" cocos2d_pY="107.5" x="0" y="434"/>
+    <SubTexture name="part-tx_zd_hengsaokong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="904" y="0"/>
+  </TextureAtlas>
+</skeleton>

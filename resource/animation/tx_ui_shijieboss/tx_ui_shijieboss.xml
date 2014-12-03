@@ -1,0 +1,115 @@
+<skeleton name="tx_ui_shijieboss" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_shijieboss">
+      <b name="图层 5" x="-1.15" y="1.35" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_shijieboss001" pX="5" pY="5"/>
+      </b>
+      <b name="图层 7" x="55" y="53" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1">
+        <d name="part-tx_ui_shijieboss01" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss08" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss13" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss24" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss35" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss37" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss38" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss39" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss40" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss02" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss03" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss04" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss05" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss06" pX="55" pY="53"/>
+        <d name="part-tx_ui_shijieboss07" pX="55" pY="53"/>
+      </b>
+      <b name="图层 4" x="73.5" y="21.25" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1">
+        <d name="part-tx_ui_shijieboss10" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss12" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss15" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss17" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss19" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss21" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss23" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss26" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss28" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss30" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss32" pX="49" pY="17.5"/>
+        <d name="part-tx_ui_shijieboss34" pX="49" pY="17.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_shijieboss">
+      <mov name="qiu" dr="30" to="0" drTW="30" lp="1" twE="NaN">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="-1.15" y="1.35" cocos2d_x="-1.15" cocos2d_y="1.35" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0" dI="0" dr="30"/>
+        </b>
+        <b name="图层 7" sc="1" dl="0">
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="0" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="1" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="2" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="3" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="4" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="5" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="6" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="7" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="8" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="9" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="10" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="11" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="12" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="13" dr="2"/>
+          <f x="55" y="53" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="55" pY="53" z="1" dI="14" dr="2"/>
+        </b>
+      </mov>
+      <mov name="shuimian" dr="24" to="0" drTW="24" lp="1" twE="NaN">
+        <b name="图层 5" sc="1" dl="0">
+          <f x="-1.15" y="1.35" cocos2d_x="-1.15" cocos2d_y="1.35" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0" dI="0" dr="24"/>
+        </b>
+        <b name="图层 4" sc="1" dl="0">
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="0" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="1" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="2" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="3" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="4" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="5" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="6" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="7" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="8" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="9" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="10" dr="2"/>
+          <f x="73.5" y="21.25" cocos2d_x="0" cocos2d_y="-5" kX="0" kY="0" cX="1.05" cY="1.05" pX="70" pY="25" z="1" dI="11" dr="2"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_shijieboss" width="512" height="512">
+    <SubTexture name="part-tx_ui_shijieboss34" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="336" y="324"/>
+    <SubTexture name="part-tx_ui_shijieboss32" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="336" y="398"/>
+    <SubTexture name="part-tx_ui_shijieboss30" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="100" y="469"/>
+    <SubTexture name="part-tx_ui_shijieboss28" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="400" y="435"/>
+    <SubTexture name="part-tx_ui_shijieboss26" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="200" y="432"/>
+    <SubTexture name="part-tx_ui_shijieboss23" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="0" y="432"/>
+    <SubTexture name="part-tx_ui_shijieboss21" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="336" y="361"/>
+    <SubTexture name="part-tx_ui_shijieboss19" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="200" y="469"/>
+    <SubTexture name="part-tx_ui_shijieboss17" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="300" y="435"/>
+    <SubTexture name="part-tx_ui_shijieboss15" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="300" y="472"/>
+    <SubTexture name="part-tx_ui_shijieboss12" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="100" y="432"/>
+    <SubTexture name="part-tx_ui_shijieboss10" width="98" height="35" cocos2d_pX="49" cocos2d_pY="17.5" x="0" y="469"/>
+    <SubTexture name="part-tx_ui_shijieboss07" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="112" y="216"/>
+    <SubTexture name="part-tx_ui_shijieboss06" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="336" y="216"/>
+    <SubTexture name="part-tx_ui_shijieboss05" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_shijieboss04" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="224" y="0"/>
+    <SubTexture name="part-tx_ui_shijieboss03" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="0" y="324"/>
+    <SubTexture name="part-tx_ui_shijieboss02" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="336" y="108"/>
+    <SubTexture name="part-tx_ui_shijieboss40" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="112" y="108"/>
+    <SubTexture name="part-tx_ui_shijieboss39" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="336" y="0"/>
+    <SubTexture name="part-tx_ui_shijieboss38" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="112" y="0"/>
+    <SubTexture name="part-tx_ui_shijieboss37" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="0" y="216"/>
+    <SubTexture name="part-tx_ui_shijieboss35" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="224" y="324"/>
+    <SubTexture name="part-tx_ui_shijieboss24" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="224" y="108"/>
+    <SubTexture name="part-tx_ui_shijieboss13" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="224" y="216"/>
+    <SubTexture name="part-tx_ui_shijieboss08" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="0" y="108"/>
+    <SubTexture name="part-tx_ui_shijieboss01" width="110" height="106" cocos2d_pX="55" cocos2d_pY="53" x="112" y="324"/>
+    <SubTexture name="part-tx_ui_shijieboss001" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="448" y="0"/>
+  </TextureAtlas>
+</skeleton>

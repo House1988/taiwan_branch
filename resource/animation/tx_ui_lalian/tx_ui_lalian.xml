@@ -1,0 +1,146 @@
+<skeleton name="tx_ui_lalian" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_lalian">
+      <b name="图层 4" x="0" y="0" kX="0" kY="0" cX="100.01" cY="98.22" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_lalian001" pX="5" pY="5"/>
+      </b>
+      <b name="图层 18" x="204.85" y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian08" pX="110" pY="145"/>
+        <d name="part-tx_ui_lalian09" pX="110" pY="145"/>
+        <d name="part-tx_ui_lalian10" pX="110" pY="145"/>
+      </b>
+      <b name="图层 19" x="204.85" y="-6" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian07" pX="110" pY="126"/>
+      </b>
+      <b name="图层 24" x="204.85" y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian06" pX="110" pY="145"/>
+      </b>
+      <b name="图层 25" x="204.85" y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian05" pX="110" pY="145"/>
+      </b>
+      <b name="图层 26" x="204.85" y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian04" pX="110" pY="145"/>
+      </b>
+      <b name="图层 27" x="204.85" y="-3" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian03" pX="110" pY="127.5"/>
+      </b>
+      <b name="图层 28" x="204.85" y="-51" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_lalian02" pX="110" pY="103.5"/>
+      </b>
+      <b name="图层 31" x="-192.15" y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian08" pX="110" pY="145"/>
+        <d name="part-tx_ui_lalian09" pX="110" pY="145"/>
+        <d name="part-tx_ui_lalian10" pX="110" pY="145"/>
+      </b>
+      <b name="图层 20" x="-192.15" y="-6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian07" pX="110" pY="126"/>
+      </b>
+      <b name="图层 9" x="-192.15" y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian06" pX="110" pY="145"/>
+      </b>
+      <b name="图层 10" x="-192.15" y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian05" pX="110" pY="145"/>
+      </b>
+      <b name="图层 11" x="-192.15" y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian04" pX="110" pY="145"/>
+      </b>
+      <b name="图层 12" x="-192.15" y="-3" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian03" pX="110" pY="127.5"/>
+      </b>
+      <b name="图层 13" x="-192.15" y="-51" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_lalian02" pX="110" pY="103.5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_lalian">
+      <mov name="qishou" dr="23" to="6" drTW="23" lp="0" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100.01" cY="98.22" pX="0" pY="0" z="0" dI="0" dr="23"/>
+        </b>
+        <b name="图层 18" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="2" dr="3"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="204.85" y="-6" cocos2d_x="204.85" cocos2d_y="-6" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="图层 24" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="3"/>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="图层 25" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f dr="12" dI="-1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="204.85" y="32" cocos2d_x="204.85" cocos2d_y="32" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="图层 27" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="204.85" y="-3" cocos2d_x="204.85" cocos2d_y="-3" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="3"/>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="图层 28" sc="1" dl="0">
+          <f x="204.85" y="-51" cocos2d_x="204.85" cocos2d_y="-51" kX="0" kY="180" cX="2" cY="2" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f dr="19" dI="-1"/>
+        </b>
+        <b name="图层 31" sc="1" dl="0">
+          <f dr="16" dI="-1"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="2" dr="3"/>
+        </b>
+        <b name="图层 20" sc="1" dl="0">
+          <f dr="14" dI="-1"/>
+          <f x="-192.15" y="-6" cocos2d_x="-192.15" cocos2d_y="-6" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f dr="7" dI="-1"/>
+        </b>
+        <b name="图层 9" sc="1" dl="0">
+          <f dr="11" dI="-1"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="3"/>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="图层 10" sc="1" dl="0">
+          <f dr="9" dI="-1"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f dr="12" dI="-1"/>
+        </b>
+        <b name="图层 11" sc="1" dl="0">
+          <f dr="7" dI="-1"/>
+          <f x="-192.15" y="32" cocos2d_x="-192.15" cocos2d_y="32" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f dr="14" dI="-1"/>
+        </b>
+        <b name="图层 12" sc="1" dl="0">
+          <f dr="4" dI="-1"/>
+          <f x="-192.15" y="-3" cocos2d_x="-192.15" cocos2d_y="-3" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="3"/>
+          <f dr="16" dI="-1"/>
+        </b>
+        <b name="图层 13" sc="1" dl="0">
+          <f x="-192.15" y="-51" cocos2d_x="-192.15" cocos2d_y="-51" kX="0" kY="0" cX="2" cY="2" pX="0" pY="0" z="2" dI="0" dr="4"/>
+          <f dr="19" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_lalian" width="1024" height="512">
+    <SubTexture name="part-tx_ui_lalian02" width="220" height="48" cocos2d_pX="110" cocos2d_pY="103.5" x="444" y="385"/>
+    <SubTexture name="part-tx_ui_lalian03" width="220" height="91" cocos2d_pX="110" cocos2d_pY="127.5" x="444" y="292"/>
+    <SubTexture name="part-tx_ui_lalian04" width="220" height="131" cocos2d_pX="110" cocos2d_pY="145" x="222" y="292"/>
+    <SubTexture name="part-tx_ui_lalian05" width="220" height="161" cocos2d_pX="110" cocos2d_pY="145" x="0" y="292"/>
+    <SubTexture name="part-tx_ui_lalian06" width="220" height="205" cocos2d_pX="110" cocos2d_pY="145" x="666" y="254"/>
+    <SubTexture name="part-tx_ui_lalian07" width="220" height="252" cocos2d_pX="110" cocos2d_pY="126" x="666" y="0"/>
+    <SubTexture name="part-tx_ui_lalian10" width="220" height="290" cocos2d_pX="110" cocos2d_pY="145" x="444" y="0"/>
+    <SubTexture name="part-tx_ui_lalian09" width="220" height="290" cocos2d_pX="110" cocos2d_pY="145" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_lalian08" width="220" height="290" cocos2d_pX="110" cocos2d_pY="145" x="222" y="0"/>
+    <SubTexture name="part-tx_ui_lalian001" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="888" y="0"/>
+  </TextureAtlas>
+</skeleton>

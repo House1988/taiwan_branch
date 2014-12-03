@@ -1,0 +1,139 @@
+<skeleton name="tx_bubing_mingchendanti" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="tx_bubing_mingchendanti">
+   <b name="图层 5" x="0" y="0" kX="0" kY="180" cX="66.65" cY="66.65" pX="0" pY="0" z="0">
+    <d name="part-tx_bubing_mingchendantikong" pX="5" pY="5"/>
+   </b>
+   <b name="L" x="-1.7" y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_mingchendanti01" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti02" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti03" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti04" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti05" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti06" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti08" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti10" pX="80" pY="65"/>
+   </b>
+   <b name="图层 3" x="-74.55" y="13.5" kX="-7.46" kY="172.54" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="part-tx_bubing_mingchendanti102" pX="195.5" pY="33"/>
+   </b>
+   <b name="图层 7" x="-57.3" y="-74.4" kX="-7.94" kY="172.06" cX="0.73" cY="0.73" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_mingchendanti101" pX="195.5" pY="33"/>
+   </b>
+   <b name="图层 24" x="4.55" y="-104.1" kX="90" kY="90" cX="2.05" cY="1.99" pX="0" pY="0" z="3">
+    <d name="part-tx_bubing_mingchendanti11" pX="73.5" pY="40"/>
+   </b>
+   <b name="图层 10" x="-1.7" y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_mingchendanti01" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti02" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti03" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti04" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti05" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti06" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti08" pX="80" pY="65"/>
+    <d name="part-tx_bubing_mingchendanti10" pX="80" pY="65"/>
+   </b>
+   <b name="图层 4" x="71.75" y="-16.8" kX="-19.28" kY="-19.28" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="part-tx_bubing_mingchendanti102" pX="195.5" pY="33"/>
+   </b>
+   <b name="图层 8" x="21.8" y="-88.6" kX="-18.8" kY="-18.8" cX="0.73" cY="0.73" pX="0" pY="0" z="1">
+    <d name="part-tx_bubing_mingchendanti101" pX="195.5" pY="33"/>
+   </b>
+   <b name="R" x="4.55" y="-104.1" kX="90" kY="90" cX="2.05" cY="1.99" pX="0" pY="0" z="3">
+    <d name="part-tx_bubing_mingchendanti11" pX="73.5" pY="40"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="tx_bubing_mingchendanti">
+   <mov name="mingzhongyou" dr="18" to="0" drTW="18" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="180" cX="66.65" cY="66.65" pX="0" pY="0" z="0" dI="0" dr="18"/>
+    </b>
+    <b name="L" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="1" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="5" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="6" dr="2"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="7" dr="2"/>
+    </b>
+    <b name="图层 3" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-74.55" y="13.5" cocos2d_x="-74.55" cocos2d_y="13.5" kX="-7.46" kY="172.54" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="6"/>
+     <f x="-74.55" y="13.5" cocos2d_x="-74.55" cocos2d_y="13.5" kX="-7.46" kY="172.54" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="-74.55" y="13.5" cocos2d_x="-74.55" cocos2d_y="13.5" kX="-7.46" kY="172.54" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="44" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="图层 7" sc="1" dl="0">
+     <f x="-57.3" y="-74.4" cocos2d_x="-57.3" cocos2d_y="-74.4" kX="-7.94" kY="172.06" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+     <f x="-51.25" y="-43.8" cocos2d_x="-51.25" cocos2d_y="-43.8" kX="4.49" kY="-175.51" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="-173.8" y="-184.75" cocos2d_x="-173.8" cocos2d_y="-184.75" kX="-67.95" kY="112.05" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="10" dI="-1"/>
+    </b>
+    <b name="图层 24" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="4.55" y="-104.1" cocos2d_x="4.55" cocos2d_y="-104.1" kX="90" kY="90" cX="2.05" cY="1.99" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="4.55" y="-104.1" cocos2d_x="4.55" cocos2d_y="-104.1" kX="90" kY="90" cX="2.05" cY="0.6" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="20.45" y="-131.5" cocos2d_x="20.45" cocos2d_y="-131.5" kX="90" kY="90" cX="2.43" cY="0.45" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f dr="7" dI="-1"/>
+    </b>
+   </mov>
+   <mov name="mingzhongzuo" dr="18" to="0" drTW="18" lp="0" twE="NaN">
+    <b name="图层 5" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="180" cX="66.65" cY="66.65" pX="0" pY="0" z="0" dI="0" dr="18"/>
+    </b>
+    <b name="图层 10" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="1" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="2" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="3" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="4" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="5" dr="1"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="6" dr="2"/>
+     <f x="-1.7" y="-52.05" cocos2d_x="-1.7" cocos2d_y="-52.05" kX="0" kY="0" cX="1.92" cY="1.92" pX="0" pY="0" z="1" dI="7" dr="2"/>
+    </b>
+    <b name="图层 4" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="71.75" y="-16.8" cocos2d_x="71.75" cocos2d_y="-16.8" kX="-19.28" kY="-19.28" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="6"/>
+     <f x="71.75" y="-16.8" cocos2d_x="71.75" cocos2d_y="-16.8" kX="-19.28" kY="-19.28" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="3"/>
+     <f x="71.75" y="-16.8" cocos2d_x="71.75" cocos2d_y="-16.8" kX="-19.28" kY="-19.28" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="44" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="图层 8" sc="1" dl="0">
+     <f x="21.8" y="-88.6" cocos2d_x="21.8" cocos2d_y="-88.6" kX="-18.8" kY="-18.8" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" twE="0" dr="2"/>
+     <f x="30.15" y="-58.5" cocos2d_x="30.15" cocos2d_y="-58.5" kX="-31.23" kY="-31.23" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" twE="0" dr="5"/>
+     <f x="73.1" y="-223.45" cocos2d_x="73.1" cocos2d_y="-223.45" kX="41.21" kY="41.21" cX="0.73" cY="0.73" pX="0" pY="0" z="1" dI="0" dr="1"/>
+     <f dr="10" dI="-1"/>
+    </b>
+    <b name="R" sc="1" dl="0">
+     <f dr="8" dI="-1"/>
+     <f x="4.55" y="-104.1" cocos2d_x="4.55" cocos2d_y="-104.1" kX="90" kY="90" cX="2.05" cY="1.99" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="4.55" y="-104.1" cocos2d_x="4.55" cocos2d_y="-104.1" kX="90" kY="90" cX="2.05" cY="0.6" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f x="20.45" y="-131.5" cocos2d_x="20.45" cocos2d_y="-131.5" kX="90" kY="90" cX="2.43" cY="0.45" pX="0" pY="0" z="3" dI="0" dr="1"/>
+     <f dr="7" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="tx_bubing_mingchendanti" width="512" height="1024">
+  <SubTexture name="part-tx_bubing_mingchendanti11" width="147" height="80" cocos2d_pX="73.5" cocos2d_pY="40" x="324" y="400"/>
+  <SubTexture name="part-tx_bubing_mingchendanti101" width="391" height="66" cocos2d_pX="195.5" cocos2d_pY="33" x="0" y="0"/>
+  <SubTexture name="part-tx_bubing_mingchendanti102" width="391" height="66" cocos2d_pX="195.5" cocos2d_pY="33" x="0" y="68"/>
+  <SubTexture name="part-tx_bubing_mingchendanti10" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="324" y="268"/>
+  <SubTexture name="part-tx_bubing_mingchendanti08" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="0" y="268"/>
+  <SubTexture name="part-tx_bubing_mingchendanti06" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="0" y="400"/>
+  <SubTexture name="part-tx_bubing_mingchendanti05" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="0" y="136"/>
+  <SubTexture name="part-tx_bubing_mingchendanti04" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="162" y="136"/>
+  <SubTexture name="part-tx_bubing_mingchendanti03" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="324" y="136"/>
+  <SubTexture name="part-tx_bubing_mingchendanti02" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="162" y="268"/>
+  <SubTexture name="part-tx_bubing_mingchendanti01" width="160" height="130" cocos2d_pX="80" cocos2d_pY="65" x="162" y="400"/>
+  <SubTexture name="part-tx_bubing_mingchendantikong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="393" y="0"/>
+ </TextureAtlas>
+</skeleton>

@@ -1,0 +1,92 @@
+<skeleton name="ui_juedou" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="ui_juedou">
+      <b name="ui_juedou_1" x="-33" y="47.5" kX="29.83" kY="29.83" cX="1.48" cY="1.48" pX="0" pY="0" z="0">
+        <d name="part-ui_juedou_00" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_01" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_02" pX="75" pY="41.5"/>
+      </b>
+      <b name="ui_juedou_2" x="36" y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1">
+        <d name="part-ui_juedou_06" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_07" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_08" pX="75" pY="41.5"/>
+      </b>
+      <b name="ui_juedou_6" x="36" y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2">
+        <d name="part-ui_juedou_06" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_07" pX="75" pY="41.5"/>
+        <d name="part-ui_juedou_08" pX="75" pY="41.5"/>
+      </b>
+      <b name="ui_juedou_5" x="-1" y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3">
+        <d name="part-ui_juedou_03" pX="41" pY="40.5"/>
+        <d name="part-ui_juedou_04" pX="41" pY="40.5"/>
+        <d name="part-ui_juedou_05" pX="41" pY="40.5"/>
+      </b>
+      <b name="ui_juedou_8" x="0" y="0" kX="0" kY="0" cX="98.98" cY="64.08" pX="0" pY="0" z="0">
+        <d name="part-ui_juedou_09" pX="5" pY="5"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="ui_juedou">
+      <mov name="mingzhong" dr="12" to="6" drTW="12" lp="0" twE="NaN">
+        <b name="ui_juedou_1" sc="1" dl="0">
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="29.83" kY="29.83" cX="1.48" cY="1.48" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="29.86" kY="29.86" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="29.86" kY="29.86" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="2" dr="2"/>
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="29.86" kY="29.86" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="0" dr="2"/>
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="29.86" kY="29.86" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="1" dr="2"/>
+          <f x="-33" y="47.5" cocos2d_x="-33" cocos2d_y="47.5" kX="34" kY="34" cX="1.49" cY="1.49" pX="0" pY="0" z="0" dI="2" dr="2"/>
+        </b>
+        <b name="ui_juedou_2" sc="1" dl="0">
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="1" dI="2" dr="2"/>
+        </b>
+        <b name="ui_juedou_6" sc="1" dl="0">
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="2" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="36" y="-45.5" cocos2d_x="36" cocos2d_y="-45.5" kX="-143.12" kY="-143.12" cX="1.49" cY="1.49" pX="0" pY="0" z="2" dI="2" dr="2"/>
+        </b>
+        <b name="ui_juedou_5" sc="1" dl="0">
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="2" dr="2"/>
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="0" dr="2"/>
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="1" dr="2"/>
+          <f x="-1" y="3" cocos2d_x="-1" cocos2d_y="3" kX="0" kY="0" cX="1.33" cY="1.33" pX="0" pY="0" z="3" dI="2" dr="2"/>
+        </b>
+      </mov>
+      <mov name="qishou" dr="8" to="6" drTW="8" lp="0" twE="NaN">
+        <b name="ui_juedou_8" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="98.98" cY="64.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="4">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="98.98" cY="64.08" pX="0" pY="0" z="0" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="98.98" cY="64.08" pX="0" pY="0" z="0" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+        <f st="0" dr="7"/>
+        <f st="7" dr="1"/>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="ui_juedou" width="512" height="256">
+    <SubTexture name="part-ui_juedou_09" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="456" y="0"/>
+    <SubTexture name="part-ui_juedou_05" width="82" height="81" cocos2d_pX="41" cocos2d_pY="40.5" x="0" y="170"/>
+    <SubTexture name="part-ui_juedou_04" width="82" height="81" cocos2d_pX="41" cocos2d_pY="40.5" x="84" y="170"/>
+    <SubTexture name="part-ui_juedou_03" width="82" height="81" cocos2d_pX="41" cocos2d_pY="40.5" x="168" y="170"/>
+    <SubTexture name="part-ui_juedou_08" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="304" y="0"/>
+    <SubTexture name="part-ui_juedou_07" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="0" y="0"/>
+    <SubTexture name="part-ui_juedou_06" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="304" y="85"/>
+    <SubTexture name="part-ui_juedou_02" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="152" y="0"/>
+    <SubTexture name="part-ui_juedou_01" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="152" y="85"/>
+    <SubTexture name="part-ui_juedou_00" width="150" height="83" cocos2d_pX="75" cocos2d_pY="41.5" x="0" y="85"/>
+  </TextureAtlas>
+</skeleton>

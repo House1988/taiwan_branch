@@ -1,0 +1,116 @@
+<skeleton name="tx_piantou_donghua02" frameRate="24" version="2.2">
+ <armatures>
+  <armature name="tx_piantou_donghua02">
+   <b name="图层 1" x="0" y="0" kX="0" kY="0" cX="150.06" cY="150.06" pX="0" pY="0" z="0">
+    <d name="part-kong" pX="5" pY="5"/>
+   </b>
+   <b name="xiaotu" x="-50.75" y="-205.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+    <d name="part-tx_doanghua_xiaotu06" pX="125" pY="100"/>
+   </b>
+   <b name="xiaotu0" x="319.35" y="62.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="part-tx_doanghua_xiaotu05" pX="125" pY="100"/>
+   </b>
+   <b name="xiaotu1" x="-280.65" y="-127.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="part-tx_doanghua_xiaotu04" pX="125" pY="100"/>
+   </b>
+   <b name="xiaotu2" x="15.35" y="210.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="part-tx_doanghua_xiaotu03" pX="125" pY="100"/>
+   </b>
+   <b name="xiaotu3" x="218.35" y="-158.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3">
+    <d name="part-tx_doanghua_xiaotu02" pX="125" pY="100"/>
+   </b>
+   <b name="xiaotu4" x="-293.65" y="148.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+    <d name="part-tx_doanghua_xiaotu01" pX="125" pY="100"/>
+   </b>
+  </armature>
+ </armatures>
+ <animations>
+  <animation name="tx_piantou_donghua02">
+   <mov name="qishou" dr="189" to="0" drTW="189" lp="0" twE="NaN">
+    <b name="图层 1" sc="1" dl="0">
+     <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="150.06" cY="150.06" pX="0" pY="0" z="0" dI="0" dr="189"/>
+    </b>
+    <b name="xiaotu" sc="1" dl="0">
+     <f dr="92" dI="-1"/>
+     <f x="-50.75" y="-205.65" cocos2d_x="-50.75" cocos2d_y="-205.65" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="22">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-51.65" y="-205.65" cocos2d_x="-51.65" cocos2d_y="-205.65" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="1" dI="0" twE="0" dr="48"/>
+     <f x="-53.7" y="-205.65" cocos2d_x="-53.7" cocos2d_y="-205.65" kX="0" kY="0" cX="1.17" cY="1.17" pX="0" pY="0" z="1" dI="0" twE="0" dr="26"/>
+     <f x="-54.75" y="-205.65" cocos2d_x="-54.75" cocos2d_y="-205.65" kX="0" kY="0" cX="1.23" cY="1.23" pX="0" pY="0" z="1" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+    </b>
+    <b name="xiaotu0" sc="1" dl="0">
+     <f dr="82" dI="-1"/>
+     <f x="319.35" y="62.4" cocos2d_x="319.35" cocos2d_y="62.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="26">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="322.1" y="61.3" cocos2d_x="322.1" cocos2d_y="61.3" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="0" z="2" dI="0" twE="0" dr="43"/>
+     <f x="331.7" y="57.5" cocos2d_x="331.7" cocos2d_y="57.5" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="2" dI="0" twE="0" dr="29"/>
+     <f x="337.8" y="55.05" cocos2d_x="337.8" cocos2d_y="55.05" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="2" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="8" dI="-1"/>
+    </b>
+    <b name="xiaotu1" sc="1" dl="0">
+     <f dr="71" dI="-1"/>
+     <f x="-280.65" y="-127.6" cocos2d_x="-280.65" cocos2d_y="-127.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="25">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-284.5" y="-130.75" cocos2d_x="-284.5" cocos2d_y="-130.75" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="0" z="3" dI="0" twE="0" dr="43"/>
+     <f x="-297.9" y="-141.9" cocos2d_x="-297.9" cocos2d_y="-141.9" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="3" dI="0" twE="0" dr="29"/>
+     <f x="-306.45" y="-148.95" cocos2d_x="-306.45" cocos2d_y="-148.95" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="3" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="20" dI="-1"/>
+    </b>
+    <b name="xiaotu2" sc="1" dl="0">
+     <f dr="62" dI="-1"/>
+     <f x="15.35" y="210.95" cocos2d_x="15.35" cocos2d_y="210.95" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="24">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="14.75" y="211.5" cocos2d_x="14.75" cocos2d_y="211.5" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="0" z="4" dI="0" twE="0" dr="41"/>
+     <f x="12.6" y="213.35" cocos2d_x="12.6" cocos2d_y="213.35" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="4" dI="0" twE="0" dr="26"/>
+     <f x="11.35" y="214.55" cocos2d_x="11.35" cocos2d_y="214.55" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="4" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="35" dI="-1"/>
+    </b>
+    <b name="xiaotu3" sc="1" dl="0">
+     <f dr="52" dI="-1"/>
+     <f x="218.35" y="-158.6" cocos2d_x="218.35" cocos2d_y="-158.6" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="22">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="220" y="-162.1" cocos2d_x="220" cocos2d_y="-162.1" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="0" z="5" dI="0" twE="0" dr="44"/>
+     <f x="225.7" y="-174.45" cocos2d_x="225.7" cocos2d_y="-174.45" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="5" dI="0" twE="0" dr="29"/>
+     <f x="229.35" y="-182.25" cocos2d_x="229.35" cocos2d_y="-182.25" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="5" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="41" dI="-1"/>
+    </b>
+    <b name="xiaotu4" sc="1" dl="0">
+     <f dr="41" dI="-1"/>
+     <f x="-293.65" y="148.4" cocos2d_x="-293.65" cocos2d_y="148.4" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="20">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f x="-297.65" y="148.25" cocos2d_x="-297.65" cocos2d_y="148.25" kX="0" kY="0" cX="1.01" cY="1.01" pX="0" pY="0" z="6" dI="0" twE="0" dr="44"/>
+     <f x="-311.6" y="147.75" cocos2d_x="-311.6" cocos2d_y="147.75" kX="0" kY="0" cX="1.05" cY="1.05" pX="0" pY="0" z="6" dI="0" twE="0" dr="29"/>
+     <f x="-320.45" y="147.4" cocos2d_x="-320.45" cocos2d_y="147.4" kX="0" kY="0" cX="1.07" cY="1.07" pX="0" pY="0" z="6" dI="0" dr="1">
+      <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+     </f>
+     <f dr="54" dI="-1"/>
+    </b>
+   </mov>
+  </animation>
+ </animations>
+ <TextureAtlas name="tx_piantou_donghua02" width="1024" height="512">
+  <SubTexture name="part-tx_doanghua_xiaotu01" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="0" y="202"/>
+  <SubTexture name="part-tx_doanghua_xiaotu02" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="504" y="0"/>
+  <SubTexture name="part-tx_doanghua_xiaotu03" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="252" y="202"/>
+  <SubTexture name="part-tx_doanghua_xiaotu04" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="0" y="0"/>
+  <SubTexture name="part-tx_doanghua_xiaotu05" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="252" y="0"/>
+  <SubTexture name="part-tx_doanghua_xiaotu06" width="250" height="200" cocos2d_pX="125" cocos2d_pY="100" x="756" y="0"/>
+  <SubTexture name="part-kong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="1008" y="0"/>
+ </TextureAtlas>
+</skeleton>

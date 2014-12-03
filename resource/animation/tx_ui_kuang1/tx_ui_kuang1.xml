@@ -1,0 +1,54 @@
+<skeleton name="tx_ui_kuang1" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_kuang1">
+      <b name="图层 4" x="0" y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_kuang1001" pX="5" pY="5"/>
+      </b>
+      <b name="图层 3" x="0" y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_kuang1002" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1003" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1004" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1005" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1006" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1007" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1008" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1009" pX="50" pY="50"/>
+        <d name="part-tx_ui_kuang1010" pX="50" pY="50"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_kuang1">
+      <mov name="xunhuan" dr="24" to="0" drTW="24" lp="1" twE="NaN">
+        <b name="图层 4" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="20" cY="20" pX="0" pY="0" z="0" dI="0" dr="24"/>
+        </b>
+        <b name="图层 3" sc="1" dl="0">
+          <f dr="3" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="1" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="2" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="3" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="4" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="5" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="6" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="7" dr="2"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="8" dr="2"/>
+          <f dr="3" dI="-1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_kuang1" width="512" height="256">
+    <SubTexture name="part-tx_ui_kuang1010" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="102" y="0"/>
+    <SubTexture name="part-tx_ui_kuang1009" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="306" y="102"/>
+    <SubTexture name="part-tx_ui_kuang1008" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="306" y="0"/>
+    <SubTexture name="part-tx_ui_kuang1007" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="204" y="102"/>
+    <SubTexture name="part-tx_ui_kuang1006" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="0" y="102"/>
+    <SubTexture name="part-tx_ui_kuang1005" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_kuang1004" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="204" y="0"/>
+    <SubTexture name="part-tx_ui_kuang1003" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="408" y="0"/>
+    <SubTexture name="part-tx_ui_kuang1002" width="100" height="100" cocos2d_pX="50" cocos2d_pY="50" x="102" y="102"/>
+    <SubTexture name="part-tx_ui_kuang1001" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="408" y="102"/>
+  </TextureAtlas>
+</skeleton>

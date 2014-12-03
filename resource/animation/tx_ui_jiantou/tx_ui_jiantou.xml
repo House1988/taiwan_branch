@@ -1,0 +1,60 @@
+<skeleton name="tx_ui_jiantou" frameRate="12" version="2.2">
+  <armatures>
+    <armature name="tx_ui_jiantou">
+      <b name="kong" x="200" y="200" kX="0" kY="0" cX="40" cY="40" pX="5" pY="5" z="0">
+        <d name="part1-kong" pX="5" pY="5"/>
+      </b>
+      <b name="xiangxia" x="-34" y="60.8" kX="0" kY="0" cX="0.54" cY="0.54" pX="0" pY="0" z="1">
+        <d name="part1-tx_ui_jiantou_02" pX="63" pY="56"/>
+      </b>
+      <b name="xiangxia 复制" x="34" y="60.8" kX="0" kY="180" cX="0.54" cY="0.54" pX="0" pY="0" z="2">
+        <d name="part1-tx_ui_jiantou_02" pX="63" pY="56"/>
+      </b>
+      <b name="xiangshangjiantou" x="-28.15" y="-44.1" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part1-tx_ui_jiantouxiao" pX="26.1" pY="20.35"/>
+      </b>
+      <b name="xiangshangjiantou 复制" x="23.85" y="-44.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part1-tx_ui_jiantouxiao" pX="26.1" pY="20.35"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_jiantou">
+      <mov name="qishou" dr="11" to="0" drTW="11" lp="1" twE="NaN">
+        <b name="kong" sc="1" dl="0">
+          <f x="200" y="200" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="40" cY="40" pX="5" pY="5" z="0" dI="0" dr="11"/>
+        </b>
+        <b name="xiangxia" sc="1" dl="0">
+          <f x="-34" y="60.8" cocos2d_x="-34" cocos2d_y="60.8" kX="0" kY="0" cX="0.54" cY="0.54" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-42.5" y="69.35" cocos2d_x="-42.5" cocos2d_y="69.35" kX="0" kY="0" cX="0.68" cY="0.68" pX="0" pY="0" z="1" dI="0" twE="0" dr="6"/>
+          <f x="-34" y="60.8" cocos2d_x="-34" cocos2d_y="60.8" kX="0" kY="0" cX="0.54" cY="0.54" pX="0" pY="0" z="1" dI="0" dr="1"/>
+        </b>
+        <b name="xiangxia 复制" sc="1" dl="0">
+          <f x="34" y="60.8" cocos2d_x="34" cocos2d_y="60.8" kX="0" kY="180" cX="0.54" cY="0.54" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="42.5" y="69.35" cocos2d_x="42.5" cocos2d_y="69.35" kX="0" kY="180" cX="0.67" cY="0.68" pX="0" pY="0" z="2" dI="0" twE="0" dr="6"/>
+          <f x="34" y="60.8" cocos2d_x="34" cocos2d_y="60.8" kX="0" kY="180" cX="0.54" cY="0.54" pX="0" pY="0" z="2" dI="0" dr="1"/>
+        </b>
+      </mov>
+      <mov name="mingzhong" dr="12" to="0" drTW="12" lp="0" twE="NaN">
+        <b name="kong" sc="1" dl="0">
+          <f x="200" y="200" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="40" cY="40" pX="5" pY="5" z="0" dI="0" dr="12"/>
+        </b>
+        <b name="xiangshangjiantou" sc="1" dl="0">
+          <f x="-28.15" y="-44.1" cocos2d_x="-28.15" cocos2d_y="-44.1" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="4"/>
+          <f x="-24.6" y="-52.75" cocos2d_x="-24.6" cocos2d_y="-52.75" kX="0" kY="180" cX="0.86" cY="0.71" pX="0" pY="0" z="1" dI="0" twE="0" dr="7"/>
+          <f x="-28.15" y="-44.1" cocos2d_x="-28.15" cocos2d_y="-44.1" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="1"/>
+        </b>
+        <b name="xiangshangjiantou 复制" sc="1" dl="0">
+          <f x="23.85" y="-44.1" cocos2d_x="23.85" cocos2d_y="-44.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="4"/>
+          <f x="20.3" y="-52.75" cocos2d_x="20.3" cocos2d_y="-52.75" kX="0" kY="0" cX="0.86" cY="0.71" pX="0" pY="0" z="2" dI="0" twE="0" dr="7"/>
+          <f x="23.85" y="-44.1" cocos2d_x="23.85" cocos2d_y="-44.1" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="1"/>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_jiantou" width="128" height="256">
+    <SubTexture name="part1-tx_ui_jiantouxiao" width="53" height="41" cocos2d_pX="26.1" cocos2d_pY="20.35" x="0" y="114"/>
+    <SubTexture name="part1-tx_ui_jiantou_02" width="126" height="112" cocos2d_pX="63" cocos2d_pY="56" x="0" y="0"/>
+    <SubTexture name="part1-kong" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="55" y="114"/>
+  </TextureAtlas>
+</skeleton>

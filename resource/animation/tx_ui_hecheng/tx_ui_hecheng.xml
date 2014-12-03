@@ -1,0 +1,136 @@
+<skeleton name="tx_ui_hecheng" frameRate="24" version="2.2">
+  <armatures>
+    <armature name="tx_ui_hecheng">
+      <b name="图层 2" x="0" y="0" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0">
+        <d name="part-tx_ui_hecheng012" pX="5" pY="5"/>
+      </b>
+      <b name="图层 19" x="1.8" y="-149.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_hecheng011" pX="65" pY="65"/>
+      </b>
+      <b name="图层 26" x="-26.1" y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_hecheng001" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng002" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng003" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng004" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng005" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng006" pX="95" pY="50"/>
+        <d name="part-tx_ui_hecheng007" pX="95" pY="50"/>
+      </b>
+      <b name="图层 14" x="-54.1" y="-54.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1">
+        <d name="part-tx_ui_hecheng010" pX="55" pY="55"/>
+      </b>
+      <b name="图层 15" x="56.3" y="-54.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2">
+        <d name="part-tx_ui_hecheng010" pX="55" pY="55"/>
+      </b>
+      <b name="图层 16" x="56.3" y="55.65" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="3">
+        <d name="part-tx_ui_hecheng010" pX="55" pY="55"/>
+      </b>
+      <b name="图层 17" x="-54.1" y="55.65" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="4">
+        <d name="part-tx_ui_hecheng010" pX="55" pY="55"/>
+      </b>
+      <b name="图层 5" x="0" y="0" kX="0" kY="0" cX="1.35" cY="1.35" pX="0" pY="0" z="5">
+        <d name="part-tx_ui_hecheng011" pX="65" pY="65"/>
+      </b>
+    </armature>
+  </armatures>
+  <animations>
+    <animation name="tx_ui_hecheng">
+      <mov name="qishou" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0" dI="0" dr="29"/>
+        </b>
+        <b name="图层 19" sc="1" dl="0">
+          <f x="1.8" y="-149.5" cocos2d_x="1.8" cocos2d_y="-149.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="5">
+            <colorTransform a="0" r="0" g="0" b="0" aM="12" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="1.8" y="-149.5" cocos2d_x="1.8" cocos2d_y="-149.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="4"/>
+          <f x="1.8" y="-149.5" cocos2d_x="1.8" cocos2d_y="-149.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="10"/>
+          <f x="1.8" y="-149.5" cocos2d_x="1.8" cocos2d_y="-149.5" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="9" dI="-1"/>
+        </b>
+        <b name="图层 26" sc="1" dl="0">
+          <f dr="5" dI="-1"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="1" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="2" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="3" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="4" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="5" dr="2"/>
+          <f x="-26.1" y="-78.55" cocos2d_x="-26.1" cocos2d_y="-78.55" kX="89.99" kY="89.99" cX="1" cY="1" pX="0" pY="0" z="2" dI="6" dr="1"/>
+          <f dr="11" dI="-1"/>
+        </b>
+      </mov>
+      <mov name="qishou1" dr="29" to="0" drTW="29" lp="0" twE="NaN">
+        <b name="图层 2" sc="1" dl="0">
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="100" cY="100" pX="0" pY="0" z="0" dI="0" dr="29"/>
+        </b>
+        <b name="图层 14" sc="1" dl="0">
+          <f x="-54.1" y="-54.15" cocos2d_x="-54.1" cocos2d_y="-54.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="6" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-54.1" y="-54.15" cocos2d_x="-54.1" cocos2d_y="-54.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="8"/>
+          <f x="-54.1" y="-54.15" cocos2d_x="-54.1" cocos2d_y="-54.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" twE="0" dr="11"/>
+          <f x="-54.1" y="-54.15" cocos2d_x="-54.1" cocos2d_y="-54.15" kX="0" kY="0" cX="1" cY="1" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="图层 15" sc="1" dl="0">
+          <f x="56.3" y="-54.15" cocos2d_x="56.3" cocos2d_y="-54.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="6" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="56.3" y="-54.15" cocos2d_x="56.3" cocos2d_y="-54.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="8"/>
+          <f x="56.3" y="-54.15" cocos2d_x="56.3" cocos2d_y="-54.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" twE="0" dr="11"/>
+          <f x="56.3" y="-54.15" cocos2d_x="56.3" cocos2d_y="-54.15" kX="0" kY="180" cX="1" cY="1" pX="0" pY="0" z="2" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="图层 16" sc="1" dl="0">
+          <f x="56.3" y="55.65" cocos2d_x="56.3" cocos2d_y="55.65" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="6" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="56.3" y="55.65" cocos2d_x="56.3" cocos2d_y="55.65" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="8"/>
+          <f x="56.3" y="55.65" cocos2d_x="56.3" cocos2d_y="55.65" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" twE="0" dr="11"/>
+          <f x="56.3" y="55.65" cocos2d_x="56.3" cocos2d_y="55.65" kX="180" kY="180" cX="1" cY="1" pX="0" pY="0" z="3" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="图层 17" sc="1" dl="0">
+          <f x="-54.1" y="55.65" cocos2d_x="-54.1" cocos2d_y="55.65" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="6">
+            <colorTransform a="0" r="0" g="0" b="0" aM="6" rM="100" gM="100" bM="100"/>
+          </f>
+          <f x="-54.1" y="55.65" cocos2d_x="-54.1" cocos2d_y="55.65" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="8"/>
+          <f x="-54.1" y="55.65" cocos2d_x="-54.1" cocos2d_y="55.65" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" twE="0" dr="11"/>
+          <f x="-54.1" y="55.65" cocos2d_x="-54.1" cocos2d_y="55.65" kX="180" kY="0" cX="1" cY="1" pX="0" pY="0" z="4" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+          <f dr="3" dI="-1"/>
+        </b>
+        <b name="图层 5" sc="1" dl="0">
+          <f dr="15" dI="-1"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="1.35" cY="1.35" pX="0" pY="0" z="5" dI="0" twE="0" dr="3"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="2.29" cY="2.29" pX="0" pY="0" z="1" dI="0" twE="-1" dr="10"/>
+          <f x="0" y="0" cocos2d_x="0" cocos2d_y="0" kX="0" kY="0" cX="3.02" cY="3.02" pX="0" pY="0" z="1" dI="0" dr="1">
+            <colorTransform a="0" r="0" g="0" b="0" aM="0" rM="100" gM="100" bM="100"/>
+          </f>
+        </b>
+      </mov>
+    </animation>
+  </animations>
+  <TextureAtlas name="tx_ui_hecheng" width="512" height="512">
+    <SubTexture name="part-tx_ui_hecheng010" width="110" height="110" cocos2d_pX="55" cocos2d_pY="55" x="384" y="0"/>
+    <SubTexture name="part-tx_ui_hecheng007" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="0" y="102"/>
+    <SubTexture name="part-tx_ui_hecheng006" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="192" y="102"/>
+    <SubTexture name="part-tx_ui_hecheng005" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="0" y="306"/>
+    <SubTexture name="part-tx_ui_hecheng004" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="192" y="0"/>
+    <SubTexture name="part-tx_ui_hecheng003" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="0" y="0"/>
+    <SubTexture name="part-tx_ui_hecheng002" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="0" y="204"/>
+    <SubTexture name="part-tx_ui_hecheng001" width="190" height="100" cocos2d_pX="95" cocos2d_pY="50" x="192" y="204"/>
+    <SubTexture name="part-tx_ui_hecheng011" width="130" height="130" cocos2d_pX="65" cocos2d_pY="65" x="192" y="306"/>
+    <SubTexture name="part-tx_ui_hecheng012" width="10" height="10" cocos2d_pX="5" cocos2d_pY="5" x="496" y="0"/>
+  </TextureAtlas>
+</skeleton>
