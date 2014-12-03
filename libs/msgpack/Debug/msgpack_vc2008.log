@@ -1,0 +1,26 @@
+﻿生成启动时间为 2014/12/1 16:01:21。
+     1>项目“D:\whws\taiwan_branch\libs\msgpack\msgpack_vc2008.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /I. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTCs /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt src\objectc.c src\unpack.c src\version.c src\vrefbuffer.c src\zone.c src\object.cpp
+         object.cpp
+         zone.c
+         vrefbuffer.c
+         version.c
+         unpack.c
+         objectc.c
+         正在生成代码...
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1299,5): warning MSB8012: TargetPath(D:\whws\taiwan_branch\projects\proj.win32\Debug\MessagePack.lib) does not match the Library's OutputFile property value (D:\whws\taiwan_branch\libs\msgpack\lib\msgpackd.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V110\Microsoft.CppBuild.targets(1301,5): warning MSB8012: TargetName(MessagePack) does not match the Library's OutputFile property value (msgpackd). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+       Lib:
+         D:\Microsoft Visual Studio 11.0\VC\bin\Lib.exe /OUT:"lib\msgpackd.lib" /NOLOGO Debug\objectc.obj
+         Debug\unpack.obj
+         Debug\version.obj
+         Debug\vrefbuffer.obj
+         Debug\zone.obj
+         Debug\object.obj
+         msgpack_vc2008.vcxproj -> D:\whws\taiwan_branch\projects\proj.win32\Debug\MessagePack.lib
+     1>已完成生成项目“D:\whws\taiwan_branch\libs\msgpack\msgpack_vc2008.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:03:14.78

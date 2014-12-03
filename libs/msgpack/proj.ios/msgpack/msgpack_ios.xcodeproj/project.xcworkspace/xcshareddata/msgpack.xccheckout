@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8F2BD100-37A6-484F-9554-7EAB1089B9F9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>msgpack</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>642766D2-0C21-44C8-AFAF-149FE77122FC</key>
+		<string>https://wulidong-svn/svn/huangdi</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/client/libs/msgpack/proj.ios/msgpack/msgpack.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>642766D2-0C21-44C8-AFAF-149FE77122FC</key>
+		<string>../../../../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>642766D2-0C21-44C8-AFAF-149FE77122FC</key>
+		<string>https://wulidong-svn/svn/huangdi</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://wulidong-svn/svn/huangdi/trunk/client/libs/msgpack/proj.ios/msgpack/msgpack.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>642766D2-0C21-44C8-AFAF-149FE77122FC</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlRepositoryTrunkRelativeLocationKey</key>
+			<string>trunk</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>642766D2-0C21-44C8-AFAF-149FE77122FC</string>
+			<key>IDESourceControlWCCName</key>
+			<string>xhg</string>
+		</dict>
+	</array>
+</dict>
+</plist>

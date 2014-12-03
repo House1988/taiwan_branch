@@ -1,0 +1,335 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		EBC4BC73181E18ED00092E62 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EBC4BC72181E18ED00092E62 /* Foundation.framework */; };
+		EBC4BCA9181E1A6A00092E62 /* object.cpp in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCA8181E1A6A00092E62 /* object.cpp */; };
+		EBC4BCAF181E1A7F00092E62 /* objectc.c in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCAA181E1A7F00092E62 /* objectc.c */; };
+		EBC4BCB0181E1A7F00092E62 /* unpack.c in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCAB181E1A7F00092E62 /* unpack.c */; };
+		EBC4BCB1181E1A7F00092E62 /* version.c in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCAC181E1A7F00092E62 /* version.c */; };
+		EBC4BCB2181E1A7F00092E62 /* vrefbuffer.c in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCAD181E1A7F00092E62 /* vrefbuffer.c */; };
+		EBC4BCB3181E1A7F00092E62 /* zone.c in Sources */ = {isa = PBXBuildFile; fileRef = EBC4BCAE181E1A7F00092E62 /* zone.c */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		EBC4BC6D181E18EC00092E62 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "include/$(PRODUCT_NAME)";
+			dstSubfolderSpec = 16;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		EBC4BC6F181E18EC00092E62 /* libmsgpack.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libmsgpack.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBC4BC72181E18ED00092E62 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		EBC4BC76181E18ED00092E62 /* msgpack-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "msgpack-Prefix.pch"; sourceTree = "<group>"; };
+		EBC4BC80181E18ED00092E62 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		EBC4BC83181E18ED00092E62 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
+		EBC4BCA3181E1A5900092E62 /* pack_define.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pack_define.h; path = ../../../include/msgpack/pack_define.h; sourceTree = "<group>"; };
+		EBC4BCA4181E1A5900092E62 /* pack_template.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = pack_template.h; path = ../../../include/msgpack/pack_template.h; sourceTree = "<group>"; };
+		EBC4BCA5181E1A5900092E62 /* sysdep.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = sysdep.h; path = ../../../include/msgpack/sysdep.h; sourceTree = "<group>"; };
+		EBC4BCA6181E1A5900092E62 /* unpack_define.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = unpack_define.h; path = ../../../include/msgpack/unpack_define.h; sourceTree = "<group>"; };
+		EBC4BCA7181E1A5900092E62 /* unpack_template.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = unpack_template.h; path = ../../../include/msgpack/unpack_template.h; sourceTree = "<group>"; };
+		EBC4BCA8181E1A6A00092E62 /* object.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = object.cpp; path = ../../../src/object.cpp; sourceTree = "<group>"; };
+		EBC4BCAA181E1A7F00092E62 /* objectc.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = objectc.c; path = ../../../src/objectc.c; sourceTree = "<group>"; };
+		EBC4BCAB181E1A7F00092E62 /* unpack.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = unpack.c; path = ../../../src/unpack.c; sourceTree = "<group>"; };
+		EBC4BCAC181E1A7F00092E62 /* version.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = version.c; path = ../../../src/version.c; sourceTree = "<group>"; };
+		EBC4BCAD181E1A7F00092E62 /* vrefbuffer.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = vrefbuffer.c; path = ../../../src/vrefbuffer.c; sourceTree = "<group>"; };
+		EBC4BCAE181E1A7F00092E62 /* zone.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = zone.c; path = ../../../src/zone.c; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		EBC4BC6C181E18EC00092E62 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBC4BC73181E18ED00092E62 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		EBC4BC66181E18EC00092E62 = {
+			isa = PBXGroup;
+			children = (
+				EBC4BC74181E18ED00092E62 /* msgpack */,
+				EBC4BC71181E18EC00092E62 /* Frameworks */,
+				EBC4BC70181E18EC00092E62 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		EBC4BC70181E18EC00092E62 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BC6F181E18EC00092E62 /* libmsgpack.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		EBC4BC71181E18EC00092E62 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BC72181E18ED00092E62 /* Foundation.framework */,
+				EBC4BC80181E18ED00092E62 /* XCTest.framework */,
+				EBC4BC83181E18ED00092E62 /* UIKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		EBC4BC74181E18ED00092E62 /* msgpack */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BCA2181E1A3200092E62 /* src */,
+				EBC4BCA1181E1A2700092E62 /* include */,
+				EBC4BC75181E18ED00092E62 /* Supporting Files */,
+			);
+			path = msgpack;
+			sourceTree = "<group>";
+		};
+		EBC4BC75181E18ED00092E62 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BC76181E18ED00092E62 /* msgpack-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		EBC4BCA1181E1A2700092E62 /* include */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BCA3181E1A5900092E62 /* pack_define.h */,
+				EBC4BCA4181E1A5900092E62 /* pack_template.h */,
+				EBC4BCA5181E1A5900092E62 /* sysdep.h */,
+				EBC4BCA6181E1A5900092E62 /* unpack_define.h */,
+				EBC4BCA7181E1A5900092E62 /* unpack_template.h */,
+			);
+			name = include;
+			sourceTree = "<group>";
+		};
+		EBC4BCA2181E1A3200092E62 /* src */ = {
+			isa = PBXGroup;
+			children = (
+				EBC4BCAA181E1A7F00092E62 /* objectc.c */,
+				EBC4BCAB181E1A7F00092E62 /* unpack.c */,
+				EBC4BCAC181E1A7F00092E62 /* version.c */,
+				EBC4BCAD181E1A7F00092E62 /* vrefbuffer.c */,
+				EBC4BCAE181E1A7F00092E62 /* zone.c */,
+				EBC4BCA8181E1A6A00092E62 /* object.cpp */,
+			);
+			name = src;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		EBC4BC6E181E18EC00092E62 /* msgpack */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = EBC4BC92181E18ED00092E62 /* Build configuration list for PBXNativeTarget "msgpack" */;
+			buildPhases = (
+				EBC4BC6B181E18EC00092E62 /* Sources */,
+				EBC4BC6C181E18EC00092E62 /* Frameworks */,
+				EBC4BC6D181E18EC00092E62 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = msgpack;
+			productName = msgpack;
+			productReference = EBC4BC6F181E18EC00092E62 /* libmsgpack.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		EBC4BC67181E18EC00092E62 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0500;
+				ORGANIZATIONNAME = baofei;
+			};
+			buildConfigurationList = EBC4BC6A181E18EC00092E62 /* Build configuration list for PBXProject "msgpack" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = EBC4BC66181E18EC00092E62;
+			productRefGroup = EBC4BC70181E18EC00092E62 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				EBC4BC6E181E18EC00092E62 /* msgpack */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		EBC4BC6B181E18EC00092E62 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				EBC4BCB1181E1A7F00092E62 /* version.c in Sources */,
+				EBC4BCB0181E1A7F00092E62 /* unpack.c in Sources */,
+				EBC4BCAF181E1A7F00092E62 /* objectc.c in Sources */,
+				EBC4BCB3181E1A7F00092E62 /* zone.c in Sources */,
+				EBC4BCA9181E1A6A00092E62 /* object.cpp in Sources */,
+				EBC4BCB2181E1A7F00092E62 /* vrefbuffer.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		EBC4BC90181E18ED00092E62 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		EBC4BC91181E18ED00092E62 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		EBC4BC93181E18ED00092E62 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				DSTROOT = /tmp/msgpack.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "msgpack/msgpack-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					../../include,
+					../../src,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VALID_ARCHS = "armv6 armv7 arm64 armv7s";
+			};
+			name = Debug;
+		};
+		EBC4BC94181E18ED00092E62 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD)";
+				DSTROOT = /tmp/msgpack.dst;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "msgpack/msgpack-Prefix.pch";
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include,
+					../../include,
+					../../src,
+				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
+				ONLY_ACTIVE_ARCH = NO;
+				OTHER_LDFLAGS = "-ObjC";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				VALID_ARCHS = "armv6 armv7 arm64 armv7s";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		EBC4BC6A181E18EC00092E62 /* Build configuration list for PBXProject "msgpack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBC4BC90181E18ED00092E62 /* Debug */,
+				EBC4BC91181E18ED00092E62 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		EBC4BC92181E18ED00092E62 /* Build configuration list for PBXNativeTarget "msgpack" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				EBC4BC93181E18ED00092E62 /* Debug */,
+				EBC4BC94181E18ED00092E62 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = EBC4BC67181E18EC00092E62 /* Project object */;
+}
