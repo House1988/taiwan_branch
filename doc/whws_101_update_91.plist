@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+   <key>items</key>
+   <array>
+       <dict>
+           <key>assets</key>
+           <array>
+               <dict>
+                   <key>kind</key>
+                   <string>software-package</string>
+                   <key>url</key>
+                   <string>http://211.155.90.46/91/whws_update.ipa</string>
+               </dict>
+               <dict>
+                   <key>kind</key>
+                   <string>display-image</string>
+                   <key>needs-shine</key>
+                   <true/>
+                   <key>url</key>
+                   <string>http://211.155.90.46/91/Icon-72.png</string>
+               </dict>
+           </array>
+           <key>metadata</key>
+           <dict>
+               <key>bundle-identifier</key>
+               <string>com.91.wuhuangwansui</string>
+               <key>bundle-version</key>
+               <string>1.0.1</string>
+               <key>kind</key>
+               <string>software</string>
+               <key>subtitle</key>
+               <string>吾皇万岁</string>
+               <key>title</key>
+               <string>吾皇万岁1.0.1（需越狱）</string>
+           </dict>
+       </dict>
+   </array>
+</dict>
+</plist>
